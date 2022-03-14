@@ -1,3 +1,45 @@
+---
+title: 'Herzog v Broomfield'
+author: 'Marc Nickl'
+date: 2022-01-07
+my-variable: 'LINE_SPACING'
+numbersections: true 
+autoEqnLabels: true
+geometry:
+   - a4paper
+   - top=30mm
+   - left=20mm
+   - right=20mm
+   - bottom=30mm
+
+output:
+   pdf_document:
+      template: jmlr2e.sty
+      toc: true
+      toc_depth: 2
+      number_sections: true
+fontsize: 200pt
+
+
+header-includes: |
+   \usepackage{float}
+   \let\origfigure\figure
+   \let\endorigfigure\endfigure
+   \renewenvironment{figure}[1][2] {
+   \expandafter\origfigure\expandafter[H]
+   } {
+   \endorigfigure
+   }
+   \usepackage{tabularx}
+   \usepackage{ragged2e}
+#\usepackage{table}
+
+
+   
+
+---
+
+
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
