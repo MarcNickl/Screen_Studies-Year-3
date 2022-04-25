@@ -2,6 +2,8 @@
 linestretch: 1.5
 fontsize: 12pt
 
+fontfamily: libertinus
+
 geometry:
    - a4paper
    - top=30mm
@@ -11,9 +13,13 @@ geometry:
 setuppagenumbering: location={footer,middle},style=\bfc
 
 reference-section-title: "Bibliography"
-
+lof: "list of ilistrations"
+toc: "Table of contents"
+toc-depth: 4
+thanks: "thanks lol"
 ...
 
+\\usepackage[scaled]{uarial}
 
 
 \pagenumbering{arabic}
@@ -49,13 +55,38 @@ reference-section-title: "Bibliography"
     \end{center}
 \end{titlepage}
 
-so ran this is test again
+\vspace{20pt}
 
-this is a test to see if it gets updated
-
-\begin{quote}
+\begin{center}
 “An endless struggle with great benefits of satisfaction when you get to the end” (Broomfield, 2017)
-\end{quote}
+
+\end{center}
+
+\vspace{20pt}
+
+# title 
+## Subtitle
+### one below that 
+#### another one
+_italics_
+**bold**
+
+
+
+\textrm{lol }  
+\textsf{ment to be serif }  
+\texttt{text }  
+\textmd{text }  
+\textbf{text }  
+\textup{also not sure }  
+\textit{even less of a clue }  
+\textsl{less clue }  
+\textsc{dont know }  
+\emph{this is an emphasis }  
+\textnormal{text}{\\normalfont text}Document font 
+
+\underline{this is underlined }
+
 
 actors to recreate scenes and Werner Herzog’s use of scripting interviews in Lessons in Darkness (2001), where he has “frontal shots of war victims delivering scripted poetic monologues” [@Peucker2012-px, p. 12]
 
@@ -182,11 +213,4 @@ When a camera is put in someone's face they stop acting naturally and become sel
 To conclude both filmmakers are highly distinguished and respected throughout the field of filmmaking. Both peoples' films have made the world a better place. They both share a simple need to make films and both were picky about their subjects.  From their early stages, where both directors had very different approaches to film, one can see how they evolve, coming ever closer, including themselves on screen and finally covering the same subject matter, even with similar ethics. So, yes, both filmmakers are different in a myriad of ways, but they still share the same values in making films.  
 
 
-# Bibliography
-\begin{thebibliography}{widest-label}
-
-\printbibliography {/Users/marc_nickl/Downloads/References from Compare the non-fiction [2M&hellip;.bib}
-
-\end{thebibliography}
-# List of Illustrations
 
