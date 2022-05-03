@@ -1,4 +1,11 @@
 ---
+title: Marc Nickl
+Author: Marc AS WELL
+
+
+
+
+
 linestretch: 1.5
 fontsize: 12pt
 
@@ -13,13 +20,24 @@ geometry:
 setuppagenumbering: location={footer,middle},style=\bfc
 
 reference-section-title: "Bibliography"
-lof: "list of ilistrations"
 toc: "Table of contents"
-toc-depth: 4
-thanks: "thanks lol"
+toc-depth: 3
+toc: true
+
+nclude-before: |
+        See these lines
+        Come __before__ the [toc](/dev/null)
+        
+        
+abstract: |
+      This is the abstract.
+    
+      It consists of two paragraphs.
+      
+      \pagebreak
+      
 ...
 
-\\usepackage[scaled]{uarial}
 
 
 \pagenumbering{arabic}
@@ -55,6 +73,9 @@ thanks: "thanks lol"
     \end{center}
 \end{titlepage}
 
+\tableofcontents
+\pagebreak
+
 \vspace{20pt}
 
 \begin{center}
@@ -64,13 +85,20 @@ thanks: "thanks lol"
 
 \vspace{20pt}
 
-# title 
+# Title 
 ## Subtitle
 ### one below that 
 #### another one
 _italics_
 **bold**
+![Image not found: 0314b786c05d34aa190fcc8bf3c6696c.png](0314b786c05d34aa190fcc8bf3c6696c.png "Image not found: 0314b786c05d34aa190fcc8bf3c6696c.png")
 
+
+![fd4fef9a20383db8ff25d8806505b409.png](fd4fef9a20383db8ff25d8806505b409.png)
+# This sis for fun
+## This is a sub heading
+this is the main body of the text
+[@noauthor_2014-nk]
 
 
 \textrm{lol }  
@@ -212,5 +240,6 @@ When a camera is put in someone's face they stop acting naturally and become sel
 
 To conclude both filmmakers are highly distinguished and respected throughout the field of filmmaking. Both peoples' films have made the world a better place. They both share a simple need to make films and both were picky about their subjects.  From their early stages, where both directors had very different approaches to film, one can see how they evolve, coming ever closer, including themselves on screen and finally covering the same subject matter, even with similar ethics. So, yes, both filmmakers are different in a myriad of ways, but they still share the same values in making films.  
 
+\addcontentsline{toc}{section}{List of Figures}
 
-
+\listoffigures
