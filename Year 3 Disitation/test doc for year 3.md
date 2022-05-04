@@ -1,7 +1,6 @@
 ---
-title: Marc Nickl
-Author: Marc AS WELL
-
+title-meta: Marc Nickl
+Author-meta: Marc AS WELL
 
 
 
@@ -24,11 +23,41 @@ toc: "Table of contents"
 toc-depth: 3
 toc: true
 
-nclude-before: |
-        See these lines
-        Come __before__ the [toc](/dev/null)
+
+
+include-before:
+  
+      ```
+      \begin{titlepage}
+    \begin{center}
+        \vspace*{4cm}
+            
+  \LARGE
+        \textbf{Herzog and Broomfield}
+            
+ \vspace{0.5cm}
+        \Large
+        Compare the non-fiction work of any two directors referenced within this unit
+            
+   \vspace{10cm}
+            
+\textbf{Marc Nickl}
+            
+\vfill
+            
+            
+ \vspace{0.8cm}
+                        
+   \large
+        Screen Studies 
         
-        
+\today
+            
+ \end{center}
+\end{titlepage}
+    ```
+  
+
 abstract: |
       This is the abstract.
     
@@ -48,32 +77,32 @@ abstract: |
     \begin{center}
         \vspace*{4cm}
             
-        
-        \LARGE
+  \LARGE
         \textbf{Herzog and Broomfield}
             
-        \vspace{0.5cm}
+ \vspace{0.5cm}
         \Large
         Compare the non-fiction work of any two directors referenced within this unit
             
-        \vspace{10cm}
+   \vspace{10cm}
             
-        \textbf{Marc Nickl}
+\textbf{Marc Nickl}
             
-        \vfill
+\vfill
             
             
-        \vspace{0.8cm}
+ \vspace{0.8cm}
                         
-        \large
-        Screen Studies 2
-   
-        28-02-2022
+   \large
+        Screen Studies 
+        
+\today
             
-    \end{center}
+ \end{center}
 \end{titlepage}
 
 \tableofcontents
+
 \pagebreak
 
 \vspace{20pt}
@@ -84,7 +113,6 @@ abstract: |
 \end{center}
 
 \vspace{20pt}
-
 # Title 
 ## Subtitle
 ### one below that 
@@ -99,6 +127,7 @@ _italics_
 ## This is a sub heading
 this is the main body of the text
 [@noauthor_2014-nk]
+![fd4fef9a20383db8ff25d8806505b409.png](fd4fef9a20383db8ff25d8806505b409.png)
 
 
 \textrm{lol }  

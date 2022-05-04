@@ -1,11 +1,8 @@
 ---
-include-before:
-    - '`\vspace{2cm}`{=latex}'
-
 title: 'Film roles : Cinematography'
-author: 'Marc Nickl'
-date: 2022-05-11
-
+author: Marc Nickl
+date-meta: May 10, 2022
+\today
 
 
 abstract: |
@@ -86,7 +83,9 @@ having the person explore the white void and the leaving it to see what else is 
 Using Blender to quickly mock up to see if it was even consepturally possible 
 
 ![Screenshot 2022-05-04 at 14.02.12.png](../../../Desktop/Screenshot 2022-05-04 at 14.02.12.png){ width=40% }
-![Screenshot 2022-05-04 at 14.02.18.png](../../../Desktop/Screenshot 2022-05-04 at 14.02.18.png){ width=40% }
+
+![Screenshot 2022-05-04 at 14.02.18.png](../../../Desktop/Screenshot 2022-05-04 at 14.02.18.png "Screenshot 2022-05-04 at 14.02.18.png"){ width=40% }
+
 ![Screenshot 2022-05-04 at 14.02.34.png](../../../Desktop/Screenshot 2022-05-04 at 14.02.34.png){ width=40% }
 
 

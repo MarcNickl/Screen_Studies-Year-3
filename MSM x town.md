@@ -3,10 +3,15 @@ include-before:
     - '`\vspace{2cm}`{=latex}'
 
 title: 'MSM x Bicester Village'
-author: 'Marc Nickl, Samuel Thomson'
+
+author: 
+    - Marc Nickl 
+    - Samuel Thomson
+    - Ran You
+
 date: 2022-05-03
 
-toc: 'table of contence'
+toc: 'true'
 
 fontsize: 12pt
 
