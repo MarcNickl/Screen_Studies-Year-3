@@ -2,7 +2,12 @@
 title-meta: Marc Nickl
 Author-meta: Marc AS WELL
 
-
+abstract: |
+      This is the abstract.
+    
+      It consists of two paragraphs.
+      
+      \pagebreak
 
 
 linestretch: 1.5
@@ -12,61 +17,15 @@ fontfamily: libertinus
 
 geometry:
    - a4paper
-   - top=30mm
-   - left=30mm
-   - right=30mm
-   - bottom=30mm
+   - margin=1in
 setuppagenumbering: location={footer,middle},style=\bfc
 
 reference-section-title: "Bibliography"
-toc: "Table of contents"
-toc-depth: 3
-toc: true
 
-
-
-include-before:
-  
-      ```
-      \begin{titlepage}
-    \begin{center}
-        \vspace*{4cm}
+header-includes:
+- \usepackage{graphicx}
             
-  \LARGE
-        \textbf{Herzog and Broomfield}
-            
- \vspace{0.5cm}
-        \Large
-        Compare the non-fiction work of any two directors referenced within this unit
-            
-   \vspace{10cm}
-            
-\textbf{Marc Nickl}
-            
-\vfill
-            
-            
- \vspace{0.8cm}
-                        
-   \large
-        Screen Studies 
-        
-\today
-            
- \end{center}
-\end{titlepage}
-    ```
-  
-
-abstract: |
-      This is the abstract.
-    
-      It consists of two paragraphs.
-      
-      \pagebreak
-      
 ...
-
 
 
 \pagenumbering{arabic}
@@ -101,8 +60,9 @@ abstract: |
  \end{center}
 \end{titlepage}
 
-\tableofcontents
 
+\setcounter{tocdepth}{3}
+\tableofcontents
 \pagebreak
 
 \vspace{20pt}
@@ -122,12 +82,29 @@ _italics_
 ![Image not found: 0314b786c05d34aa190fcc8bf3c6696c.png](0314b786c05d34aa190fcc8bf3c6696c.png "Image not found: 0314b786c05d34aa190fcc8bf3c6696c.png")
 
 
-![fd4fef9a20383db8ff25d8806505b409.png](fd4fef9a20383db8ff25d8806505b409.png)
+![fd4fef9a20383db8ff25d8806505b409.png](fd4fef9a20383db8ff25d8806505b409.png "fd4fef9a20383db8ff25d8806505b409.png")
 # This sis for fun
-## This is a sub heading
+
+    
+\begin{figure}[ht]
+
+\centering
+
+\includegraphics[width=\linewidth]{fd4fef9a20383db8ff25d8806505b409.png}
+
+\caption[Short Title]{\textbf{Short Title:} A long description of the image}
+
+\label{fig:foo}
+
+\end{figure}
+    
+  This is a sub heading
 this is the main body of the text
+
+
+
 [@noauthor_2014-nk]
-![fd4fef9a20383db8ff25d8806505b409.png](fd4fef9a20383db8ff25d8806505b409.png)
+![fd4fef9a20383db8ff25d8806505b409.png](fd4fef9a20383db8ff25d8806505b409.png "fd4fef9a20383db8ff25d8806505b409.png")
 
 
 \textrm{lol }  
@@ -269,6 +246,9 @@ When a camera is put in someone's face they stop acting naturally and become sel
 
 To conclude both filmmakers are highly distinguished and respected throughout the field of filmmaking. Both peoples' films have made the world a better place. They both share a simple need to make films and both were picky about their subjects.  From their early stages, where both directors had very different approaches to film, one can see how they evolve, coming ever closer, including themselves on screen and finally covering the same subject matter, even with similar ethics. So, yes, both filmmakers are different in a myriad of ways, but they still share the same values in making films.  
 
+
+
+\pagebreak
 \addcontentsline{toc}{section}{List of Figures}
 
 \listoffigures
