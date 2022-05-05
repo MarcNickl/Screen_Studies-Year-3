@@ -24,6 +24,9 @@ reference-section-title: "Bibliography"
 
 header-includes:
 - \usepackage{graphicx}
+- \usepackage{multibib}
+
+lof: true
             
 ...
 

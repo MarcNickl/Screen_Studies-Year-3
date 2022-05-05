@@ -2,7 +2,6 @@
 title: 'Film roles : Cinematography'
 author: Marc Nickl
 date-meta: May 10, 2022
-\today
 
 
 abstract: |
@@ -22,11 +21,18 @@ fontfamily: libertinus
 
 geometry:
    - a4paper
-   - top=30mm
-   - left=30mm
-   - right=30mm
-   - bottom=30mm
+   - margin=0.9in
 setuppagenumbering: location={footer,middle},style=\bfc
+
+header-includes: |
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhead[CO,CE]{This is fancy}
+        \fancyfoot[CO,CE]{So is this}
+        \fancyfoot[LE,RO]{\thepage}
+        \usepackage{graphicx}
+        \usepackage[export]{adjustbox}
+        \usepackage{duckuments} 
 
       
 ...
@@ -78,6 +84,12 @@ having the person explore the white void and the leaving it to see what else is 
 
 ![ERASERHEAD](../../../Downloads/7K05TW89.jpeg "ERASERHEAD"){ width=50% }
 
+![THE NIGHT OF THE HUNTER ](../../../Downloads/0B08WU03.jpeg "THE NIGHT OF THE HUNTER "){ width=50% }
+
+![THE MAN WHO WASN'T THERE](../../../Downloads/RDQGZN3M.jpeg "THE MAN WHO WASN'T THERE"){ width=50% }
+
+![THE MAN WHO WASN'T THERE](../../../Downloads/HQAZUCFN.jpeg "THE MAN WHO WASN'T THERE"){ width=50% }
+
 # Previsualization
 
 Using Blender to quickly mock up to see if it was even consepturally possible 
@@ -108,7 +120,7 @@ Using Blender to quickly mock up to see if it was even consepturally possible
 
 # Storyboards
 
-![WhatsApp Image 2022-04-29 at 10.14.00 AM.jpeg](../../../Desktop/UCA/Film roles/Assment/WhatsApp Image 2022-04-29 at 10.14.00 AM.jpeg)
+![WhatsApp Image 2022-04-29 at 10.14.00 AM.jpeg](../../../Desktop/UCA/Film roles/Assment/WhatsApp Image 2022-04-29 at 10.14.00 AM.jpeg){ width=40% }
 
 this is utter madness needs to be a lot cleaner 
 
@@ -122,24 +134,56 @@ this is utter madness needs to be a lot cleaner
 
 # Testing Notes
 
+## Tests Required
+
+### Lens Tests
+
+
+### Defusion Tests
+
+
+### Green Screen Test\
+To see and try out possible ways of exicuting the transision from Shadow to light\
+
+   One option would be to adust the green colour channels when converting from Colour to Black and While and just removing the shadow with an alteration in lighting
+
 
 \pagebreak
+
+
+
+
+
 
 # Lighting Plans
 
-
-rgeuyibnfepinuefw
-
-
-### sub sub \
-
-
-fpeiunpewfiun
-
 \pagebreak
+
+
+
+
+
 
 # Colour Grade
 
-oinefhoiewuh
+
+## Look
+I like the look of imperfect blacks maybe with a slight cast towards blue
+
+
+
+## Process
+A colour to Black and while conversion Allows me to alter the colour wheels in post allowing of a greater range of versatility to achieve a curtain look. this will have to be tested with the possibility of using a green screen.
+
+
+
+
+
+
+
+
+
+
+
 
 \pagebreak
