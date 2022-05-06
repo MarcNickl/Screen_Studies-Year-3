@@ -31,12 +31,15 @@ header-includes: |
         \fancyfoot[CO,CE]{So is this}
         \fancyfoot[LE,RO]{\thepage}
         \usepackage{graphicx}
+        \usepackage{subfig}
+        \usepackage{duckuments}
         \usepackage[export]{adjustbox}
-        \usepackage{duckuments} 
 
+        
       
 ...
 \pagebreak
+
 
 # Treatment
 
@@ -75,30 +78,25 @@ having the person explore the white void and the leaving it to see what else is 
 
 ## Reference imagery                                          
 
-
-![SCHINDLER'S LIST](../../../Downloads/JO82OPW7.jpeg "SCHINDLER'S LIST"){ width=50% }
-
-
-
-![8½](../../../Downloads/R9U3TWDY.jpeg "8½"){ width=50% }
-
-![ERASERHEAD](../../../Downloads/7K05TW89.jpeg "ERASERHEAD"){ width=50% }
-
-![THE NIGHT OF THE HUNTER ](../../../Downloads/0B08WU03.jpeg "THE NIGHT OF THE HUNTER "){ width=50% }
-
-![THE MAN WHO WASN'T THERE](../../../Downloads/RDQGZN3M.jpeg "THE MAN WHO WASN'T THERE"){ width=50% }
-
-![THE MAN WHO WASN'T THERE](../../../Downloads/HQAZUCFN.jpeg "THE MAN WHO WASN'T THERE"){ width=50% }
+\begin{center}
+   \begin{tabular}{llll}
+ \includegraphics[width=0.5\linewidth,valign=m,margin=0cm .1cm]{../../../Downloads/RDQGZN3M.jpeg} &
+ \includegraphics[width=0.5\linewidth,valign=m]{../../../Downloads/HQAZUCFN.jpeg}\\ \includegraphics[width=0.5\linewidth,valign=m,margin=0cm .1cm]{../../../Downloads/0B08WU03.jpeg} &
+ \includegraphics[width=0.5\linewidth,valign=m]{../../../Downloads/JO82OPW7.jpeg}\\
+ \includegraphics[width=0.5\linewidth,valign=m,margin=0cm .1cm]{../../../Downloads/R9U3TWDY.jpeg} & \includegraphics[width=0.5\linewidth,valign=m]{../../../Downloads/7K05TW89.jpeg}\\
+    \end{tabular}
+ \end{center}
 
 # Previsualization
 
 Using Blender to quickly mock up to see if it was even consepturally possible 
-
-![Screenshot 2022-05-04 at 14.02.12.png](../../../Desktop/Screenshot 2022-05-04 at 14.02.12.png){ width=40% }
-
-![Screenshot 2022-05-04 at 14.02.18.png](../../../Desktop/Screenshot 2022-05-04 at 14.02.18.png "Screenshot 2022-05-04 at 14.02.18.png"){ width=40% }
-
-![Screenshot 2022-05-04 at 14.02.34.png](../../../Desktop/Screenshot 2022-05-04 at 14.02.34.png){ width=40% }
+\begin{center}
+   \begin{tabular}{llll}
+ \includegraphics[width=0.3\linewidth,valign=m,margin=0cm .1cm]{../../../Desktop/Screenshot 2022-05-04 at 14.02.12.png} &
+ \includegraphics[width=0.3\linewidth,valign=m,margin=0cm .1cm]{../../../Desktop/Screenshot 2022-05-04 at 14.02.18.png } &
+ \includegraphics[width=0.3\linewidth,valign=m,margin=0cm .1cm]{../../../Desktop/Screenshot 2022-05-04 at 14.02.34.png}\\
+    \end{tabular}
+\end{center}
 
 
 \pagebreak
