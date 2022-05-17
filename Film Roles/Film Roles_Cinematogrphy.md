@@ -13,7 +13,8 @@ include-before:
     - '`\newpage{}`{=latex}'
  
 toc: 'table of contence'
-Lo: 'list of ilistration'
+toc-depth: 3
+Lot: 'list of ilistration'
 
 fontsize: 12pt
 
@@ -25,20 +26,23 @@ geometry:
 setuppagenumbering: location={footer,middle},style=\bfc
 
 header-includes: |
-        \usepackage{fancyhdr}
-        \pagestyle{fancy}
-        \fancyhead[CO,CE]{This is fancy}
-        \fancyfoot[CO,CE]{So is this}
-        \fancyfoot[LE,RO]{\thepage}
         \usepackage{graphicx}
         \usepackage{subfig}
         \usepackage{duckuments}
         \usepackage[export]{adjustbox}
-
+        \usepackage{mwe}
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{float}
         
       
 ...
+
 \pagebreak
+
+
+
+
 
 
 # Treatment
@@ -65,10 +69,12 @@ Research material,visual references for style & technical approach (mood board)
 \
 
 ## Goals
-To create the effect of someone being chased my his own shadow and then entering a white void where the shadow cant enter. 
+To create the effect of someone being chased my his own shadow and then entering a white void where the shadow cant enter, just as the shadow is about to catch the person.
 
 ### Alt
-having the person explore the white void and the leaving it to see what else is there then being chased my his shadow again
+Having the person explore the white void and the leaving it to see what else is there then being chased my his shadow again
+
+- is slower an option (walking not running)
 
 
 
@@ -103,48 +109,71 @@ Using Blender to quickly mock up to see if it was even consepturally possible
 
 
 # Shot List 
+| Shot | Type   | Description                                                                                                    | Notes                                                                                                                                                          | Time |
+|------|--------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| 1    | CU- WS | Person standing in hall way with pure white behind him and darkness outside the doorway                        | Starting with only white when dollying back to reveal a doorway                                                                                                | 10   |
+| 2    | CU     | A shadow slowly crawls up a wall                                                                               | Dolly out about 1m as the shadow starts to fill the frame - ALT - Panning at the end to see where the shadow goes                                              | 7    |
+| 3    | CU     | Person checking there shoulder                                                                                 | Start from them looking over there shoulder (opposite of storyboard)                                                                                           | 5    |
+| 4    | WS     | Person running with shadow Behind them                                                                         | Tracking shot - May add a pan to show a huge shadow with pan                                                                                                   | 7    |
+| 5    | WS     | Shadow Rapidly increases in size                                                                               | ALT - using different obstacles that make the shadow increase in size for segments                                                                             | 6    |
+| 6    | MS     | Shadow is about to catch and overtake the person                                                               | Shot from the side one - maybe on a curve but unsure                                                                                                           | 5    |
+| 7    | CU     | Shadow Reaching out with person in the lower left of frame                                                     | Claw like shadow reaching out                                                                                                                                  | 8    |
+| 8    | MS     | Human Reaching out - Dont know how to frame                                                                    | Person reaching out to the white just as shadow is about to catch however the shadow also reaches out - different angle to make the shadow seem to have a claw | 5    |
+| 9    | MS     | Shadow starts retreating back as the light engulfs the person                                                  | ALT shot of the shadow unable to get into white using moving lights                                                                                            | 5    |
+| 10   | WS     | The Camera slowly turns around person is is surrounded by While and just seing the door and walking towards it | Dont know how to create a pure white infinity wall thing                                                                                                       | 15   |
+| 11   | WS-CU  | Person Seeing a door way that is pitch back - opposite of start                                                | Slowly dollying through ending in black                                                                                                                        | 10   |
+|      |        |                                                                                                                |                                                                                                                                                                | 83   |
 
-| Shot | Type  | Description                                                          | Notes                      |
-|:----:|-------|----------------------------------------------------------------------|----------------------------|
-| 01   | MCU   | A shadow slowly crawls up a wall                                     |                            |
-| 02   | WS    | You see Person 1 running                                             |                            |
-| 03   | MS    | Single of the Shadow running                                         |                            |
-| 04   | WS    | Two Shot of the Shadow Catching up                                   |                            |
-| 05   | CU    | close up of the Shadow nearly Catching person one                    |                            |
-| 06   | MS    | Shadow Slowly starts to fade as Person 1 runs into the light         | Running into the light box |
-| 07   | MS-WS | The Camera slowly turns around person 1 as he is surrounded by While |                            |
 
 
+\pagebreak
 
 # Storyboards
 
-![WhatsApp Image 2022-04-29 at 10.14.00 AM.jpeg](../../../Desktop/UCA/Film roles/Assment/WhatsApp Image 2022-04-29 at 10.14.00 AM.jpeg){ width=40% }
-
-this is utter madness needs to be a lot cleaner 
-
-
+![Untitled_Artwork 2.png](../../../Desktop/UCA/Film roles/Assessment/Untitled_Artwork 2.png){ width=40% }
+![Untitled_Artwork 3.png](../../../Desktop/UCA/Film roles/Assessment/Untitled_Artwork 3.png){ width=40% }
 
 \pagebreak
-
-# Equipment Lists
-
-\pagebreak
-
 # Testing Notes
 
 ## Tests Required
 
+
 ### Lens Tests
+## 11th May
 
+#### Defusion Tests 
+Is it an option to use bounce light or reflected light?
 
-### Defusion Tests
-
-
-### Green Screen Test\
+#### Bounce V Diffusion V light from the Side
+\
+## 12th May
+## Green Screen Test
 To see and try out possible ways of exicuting the transision from Shadow to light\
-
    One option would be to adust the green colour channels when converting from Colour to Black and While and just removing the shadow with an alteration in lighting
+   
+### Lighing Tests 
+- Testing the DMX Board in RG03 to see if it can be used? - If not Find ALT Locations. - I have all the power however Yellow that might be
+- Testing Elements of the Production - Like shadows catching up on the Green Screen 
+- Can i use green for the screen and then magenta for the face - would that create more contrast? 
+- if in a shadow less place - have no shadows \
+![Green Screen test - With 650/Green Gel](../../../Desktop/Screenshot 2022-05-12 at 14.46.45.png "Green Screen test - With 650/Green Gel"){ width=40% }
 
+
+### Note Green Screen test
+\
+Using A Green Screen i had a spotted 650w with a green gel hitting the subject Directly this gave me more information in the green channel which help the Key. One of the remaining problems is to remove the texture from the Green cloth i used a denoise algorithm to try and solve this while keeping the hard Green Key from before hand, this however doesn't get the effect i quite want. 
+\ 
+If its not working Simplify - I reduced all of the clutter from the Chroma Key and tried to simplify the process. A Lut will be exported to Testing tomorrow. 
+
+
+
+   \begin{tabular}{llll}
+ \includegraphics[width=0.3\linewidth,valign=m,margin=0cm .1cm]{../../../Desktop/Screenshot 2022-05-04 at 14.02.12.png} &
+ \includegraphics[width=0.3\linewidth,valign=m,margin=0cm .1cm]{../../../Desktop/Screenshot 2022-05-04 at 14.02.18.png } &
+ \includegraphics[width=0.3\linewidth,valign=m,margin=0cm .1cm]{../../../Desktop/Screenshot 2022-05-04 at 14.02.34.png}\\
+    \end{tabular}
+\end{center}
 
 \pagebreak
 
@@ -154,34 +183,51 @@ To see and try out possible ways of exicuting the transision from Shadow to ligh
 
 
 # Lighting Plans
+how do i want the faces lit? - do i want texture as in things inrount of the light?
 
-\pagebreak
 
+
+
+\
+\
 
 
 
 
 
 # Colour Grade
-
+I have chosen to do the colour grade Before i start filming as a lot of the film relays on if a certain process is possible in the grade. 
 
 ## Look
 I like the look of imperfect blacks maybe with a slight cast towards blue
 
+### V1 - Lut
+in the colour channels the greens were pushed all the way 
+
+### V2 - Lut
+Softens the Highlight falloff while maintaining the Contrast Previously established
 
 
 ## Process
 A colour to Black and while conversion Allows me to alter the colour wheels in post allowing of a greater range of versatility to achieve a curtain look. this will have to be tested with the possibility of using a green screen.
 
+I will also Create a Lut that will be used a camera monitor so a live preview is available to see any issues 
 
 
 
 
+\pagebreak
 
 
+# Equipment Lists
 
-
-
-
+- C-Stand with Knuckle & Arm	
+- Fuck tons of light (1k would be nice)
+- Flags/Scrims
+- C-Stands 3-4
+- Low Turtle Stand
+- Light Stands Equal to lights
+- Tripod (that isnt Shit)
+- RG03 - G12 (Green Screen and House lights)
 
 \pagebreak
