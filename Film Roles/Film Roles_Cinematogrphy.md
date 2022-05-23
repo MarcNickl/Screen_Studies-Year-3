@@ -23,6 +23,7 @@ fontfamily: libertinus
 geometry:
    - a4paper
    - margin=0.9in
+   - landscape
 setuppagenumbering: location={footer,middle},style=\bfc
 
 header-includes: |
@@ -109,20 +110,21 @@ Using Blender to quickly mock up to see if it was even consepturally possible
 
 
 # Shot List 
-| Shot | Type   | Description                                                                                                    | Notes                                                                                                                                                          | Time |
-|------|--------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
-| 1    | CU- WS | Person standing in hall way with pure white behind him and darkness outside the doorway                        | Starting with only white when dollying back to reveal a doorway                                                                                                | 10   |
-| 2    | CU     | A shadow slowly crawls up a wall                                                                               | Dolly out about 1m as the shadow starts to fill the frame - ALT - Panning at the end to see where the shadow goes                                              | 7    |
-| 3    | CU     | Person checking there shoulder                                                                                 | Start from them looking over there shoulder (opposite of storyboard)                                                                                           | 5    |
-| 4    | WS     | Person running with shadow Behind them                                                                         | Tracking shot - May add a pan to show a huge shadow with pan                                                                                                   | 7    |
-| 5    | WS     | Shadow Rapidly increases in size                                                                               | ALT - using different obstacles that make the shadow increase in size for segments                                                                             | 6    |
-| 6    | MS     | Shadow is about to catch and overtake the person                                                               | Shot from the side one - maybe on a curve but unsure                                                                                                           | 5    |
-| 7    | CU     | Shadow Reaching out with person in the lower left of frame                                                     | Claw like shadow reaching out                                                                                                                                  | 8    |
-| 8    | MS     | Human Reaching out - Dont know how to frame                                                                    | Person reaching out to the white just as shadow is about to catch however the shadow also reaches out - different angle to make the shadow seem to have a claw | 5    |
-| 9    | MS     | Shadow starts retreating back as the light engulfs the person                                                  | ALT shot of the shadow unable to get into white using moving lights                                                                                            | 5    |
-| 10   | WS     | The Camera slowly turns around person is is surrounded by While and just seing the door and walking towards it | Dont know how to create a pure white infinity wall thing                                                                                                       | 15   |
-| 11   | WS-CU  | Person Seeing a door way that is pitch back - opposite of start                                                | Slowly dollying through ending in black                                                                                                                        | 10   |
-|      |        |                                                                                                                |                                                                                                                                                                | 83   |
+| **Shot**   | **Type    ** | **Description**                                                                                                | **Notes**                                                                                                                                                       | **Time** |
+|------------|--------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| 1          | CU-WS        | Person standing in hall way with pure white behind him and darkness outside the doorway                        | Starting with only white when dollying back to reveal a doorway                                                                                                 | 10       |
+| 2          | CU           | A shadow slowly crawls up a wall                                                                               | Dolly out about 1m as the shadow starts to fill the frame \- ALT \- Panning at the end to see where the shadow goes                                             | 7        |
+| 3          | CU           | Person checking there shoulder                                                                                 | Start from them looking over there shoulder \(opposite of storyboard\)                                                                                          | 5        |
+| 4          | WS           | Person running with shadow Behind them                                                                         | Tracking shot \- May add a pan to show a huge shadow with pan                                                                                                   | 7        |
+| 5          | WS           | Shadow Rapidly increases in size                                                                               | ALT \- using different obstacles that make the shadow increase in size for segments                                                                             | 6        |
+| 6          | MS           | Shadow is about to catch and overtake the person                                                               | Shot from the side one \- maybe on a curve but unsure                                                                                                           | 5        |
+| 7          | CU           | Shadow Reaching out with person in the lower left of frame                                                     | Claw like shadow reaching out                                                                                                                                   | 8        |
+| 8          | MS           | Human Reaching out \- Dont know how to frame                                                                   | Person reaching out to the white just as shadow is about to catch however the shadow also reaches out \- different angle to make the shadow seem to have a claw | 5        |
+| 9          | MS           | Shadow starts retreating back as the light engulfs the person                                                  | ALT shot of the shadow unable to get into white using moving lights                                                                                             | 5        |
+| 10         | WS           | The Camera slowly turns around person is is surrounded by While and just seing the door and walking towards it | Dont know how to create a pure white infinity wall thing                                                                                                        | 15       |
+| 11         | WS\-CU       | Person Seeing a door way that is pitch back \- opposite of start                                               | Slowly dollying through ending in black                                                                                                                         | 10       |
+|            |              |                                                                                                                |                                                                                                                                                                 | **83**   |
+
 
 
 
@@ -198,13 +200,13 @@ how do i want the faces lit? - do i want texture as in things inrount of the lig
 # Colour Grade
 I have chosen to do the colour grade Before i start filming as a lot of the film relays on if a certain process is possible in the grade. 
 
-## Look
+# Look
 I like the look of imperfect blacks maybe with a slight cast towards blue
 
-### V1 - Lut
+## V1 - Lut
 in the colour channels the greens were pushed all the way 
 
-### V2 - Lut
+## V2 - Lut
 Softens the Highlight falloff while maintaining the Contrast Previously established
 
 
