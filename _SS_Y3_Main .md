@@ -94,19 +94,38 @@ toc_depth: 4
 
 
 # Introduction
+In this essay i will be looking at how the evolution of soft light and how it plays a major a part of creating a natural looking image. i will look at the main contibutors in the evolution of soft light from 1940's till the 1970's. 
+
+Saying one cinematic movement is responsible for the the entirely of softer lighting in film wouldnt be right. However in film there have been Film Movements that have created noticable change to how we light today. in this essay i will be looking at 4 Major movements. Sarting with Italian Neo Realism then moving onto the avantgard movement in france from 1950 till 1960 going on to the polish film school movement in the same time frame lastly going on to the british new wave from 1960 till the 1970's.
 
 
 ## What is soft light?
+To be able to understand the history of soft lighting i will look at the ways soft light is created and the effect it produces Jay Holben discribes this process will in two issues of the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]
 
 
-### What is soft light? But smaller
+"The closer the source is to your subject, the softer the light will be. As light becomes softer, the shadow transition becomes longer and more gradual. Soft light is, by its nature, very low in contrast_. It can be non-directional and even feel "sourceless," meaning that it's hard to determine what direction the light is coming from. It can hide the texture of an object, even at extreme angles. Extremely soft light can create a nearly shadowless environment." @holbenLightQuality1012020 
 
-"_The closer the source is to your subject, the softer the light will be. As light becomes softer, the shadow transition becomes longer and more gradual. Soft light is, by its nature, very low in contrast_. It can be non-directional and even feel "sourceless," meaning that it's hard to determine what direction the light is coming from. It can hide the texture of an object, even at extreme angles. Extremely soft light can create a nearly shadowless environment." @holbenLightQuality1012020 
+\begin{figure}[H]
+    \centering
+\includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 15.08.40.png}
+\caption{\textit{Light Quality 101} (2020)}
+    \label{fig:ASC101}
+\end{figure}
+    
+    
+    
+### The Beniftis 
+faster turnaround as a scene would not have to be relit for every shot
 
 
 
-### what are the non artistic benifts
-faster setups and better continuity
+### The Drawbacks 
+greater power requirements as 
+
+
+
+## Pre Realism
+looking at the soft 1930's and lens filters 
 
 
 # Italian Neo Realism 
@@ -132,7 +151,21 @@ the ineficency of lights and how they arnt very light efficent so they need ston
 (soft light was used since the being of cinema how) 
 
 
-Raoul Coutard's more notible work with soft light was in <!-- @godardPetitSoldat1963 -->
+Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat1963]
+
+  \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 19.11.58.png} 
+        \caption{\textit{Le petit soldat}. (1963) }
+    \end{figure}
+
+    
+[@godardPetitSoldat1963]
+
+@godardPetitSoldat1963
+
+Look at Henri Decae's work with Jean-Pierre Melville and François Truffaut on 400 Blows
+Henri Decae also worked with Jacques Dupont
 
 
 
@@ -162,9 +195,10 @@ Ozzie Morris' use of space lights and
 
 
 
-
 \pagebreak
 
-\listoffigures
 
-\addcontentsline{toc}{section}{List of Figures}
+\section{List of Figures}
+
+Figure 1. Holben, J. (2020) _Light Quality 101_.
+Figure 2. _Le petit soldat_. (1963)
