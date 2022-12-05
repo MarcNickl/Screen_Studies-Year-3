@@ -117,6 +117,8 @@ To be able to understand the history of soft lighting i will look at the ways so
 
 When using softer lighting in a film there are some inhearent benitits and drawbacks. --— in his essay puts it best 
 
+one of the major drawbacks to using softer lighting from a non artistic point is that it requires a lot more light to get a good exposure.
+
 
 ### The Beniftis
 faster turnaround as a scene would not have to be relit for every shot
@@ -134,21 +136,42 @@ just one more test
 looking at the soft 1930's and lens filters
 
 
+"Earliest silent movies were shot in studios under glass roofs with muslin cloth stretched across, so were under soft light. One of the most popular lights in the silent era were Cooper-Hewitts, which were gas-discharge fixtures in tubes, a cross between a mercury vapor streetlamp and a fluorescent tube, and produced a soft light. Cinematographers like Charles Rosher did lovely lighting effects by mixing hard carbon arc lamps with soft Cooper-Hewitt lamps. So soft lighting is not a modern phenomenon. David Mullen (2012) History of Hard and Soft Lighting." [@davidmullenHistoryHardSoft2012]
+
+
+"Sound killed the use of the noisy Cooper-Hewitts (as did color). But many 1930's movies still created soft lighting using tungsten lamps through spun glass or silks. By like all styles, people became tired of it and the sharper, crisper look using harder lights become the norm by the 1940's.David Mullen (2012) History of Hard and Soft Lighting." [@davidmullenHistoryHardSoft2012]
+
+
+
 # Italian Neo Realism
 During an interview in Masters of Light, Néstor Almendros discussed the look of Italian films during the neorealist movement talking about the use of Softer and more natural lighting, mentioning G.R. Aldo (born Aldo Graziati) as one of the most influential people during this time because of his revolutionary work on Umberto D., (1952) and La terra trema, (1949)
 
 Néstor Almendros also discussed where this softer lighting style might have originated "Films of the period like Open City and Shoeshine made by other cinematographers had an interesting look, not because the director of photography wanted it that way; it was due to lack of money." [@schaeferMastersLightConversations2013, 5]
 
+## Rome Open City (1945)
+
+"Roma città aperta was shot in the same way that conventional feature films were shot at the time, mostly in a studio. However, the production was ‘poor’ for purely historical reasons: electrical power and production funding were scarce and unreliable. The ‘look’ of a film is largely the product of the lighting. For the interiors, mostly shot in a studio, the filmmakers had no alternative but to use large amounts of artificial light, and one problem they faced was that of getting power for the lighting units. They had a generator, but fuel was hard to obtain. Once they had solved the problem by purloining current from a nearby American forces newspaper office, there was no reason why the DP should not light his sets in the normal way (except that Arata found himself short of bulbs for the lighting units)." [@wagstaffItalianNeorealistCinema2007]
+
+## Shoeshine (1946)
 
 
+## G.R. Aldo
+
+### La Terra Trema
+
+### Umberto D. (1952)
 
 
-
-# Post War France Cinema
+# Post War French Cinema
 
 <!-- Overall, the influence of Italian neorealism on the French New Wave was significant, and it helped to shape the movement's focus on realism and its rejection of traditional cinematic forms and conventions. This influence can be seen in the work of French New Wave filmmakers such as François Truffaut and Jean-Luc Godard, who were heavily influenced by Italian neorealism and its techniques and approaches. -->
 
 From 1950 to 1960, France was rife with artistic experimentation, including one of the most influential film movements. The Nouvelle Vague brought upon us the birth of auteur theory. In the age of experimental auteurs, there were also experimental cinematographers, most notably the likes of Raoul Coutard, Henri Decae and Léonce-Henri Burel.
+
+
+## Léonce-Henri Burel
+
+<!-- Robert Bresson was a French filmmaker who was active during the 20th century. He is best known for his austere and minimalist approach to filmmaking, and he is widely regarded as one of the most important and influential figures in the history of French cinema. Bresson is often associated with the French New Wave, which was a movement in French cinema that emerged in the 1950s and became prominent in the 1960s. This movement was characterized by a focus on realism and experimentation, and was associated with a group of young filmmakers who sought to break with traditional cinematic conventions and create a new kind of cinema. However, Bresson's work was distinctive and did not necessarily conform to the conventions of the French New Wave, so he is not always considered to be a part of this movement. Instead, he is often considered to be a filmmaker who worked outside of traditional film movements and developed his own unique style and approach to cinema. -->
 
 Although Robert Bresson’s work is not thought to be part being part of the French New Wave, However it still was none the less highly influential in a multiple of ways, his way of lighting being one of them. The lighting in Bressons' films had evolved though multiple films and Cinematographers, two of the most notably being Philippe Agostini and Léonce-Henri Burel. Agostini's films with Bresson had softer elements with elements of softer lighting using the standard techniques of to achieve soft lighting. However, this change with Bressons' collaboration with Léonce-Henri Burel where this technique was used to a far greater extent, most notably on the films Diary of a Country Priest (1951), A Man Escaped (1956) and Pickpocket (1959).
 
@@ -157,6 +180,22 @@ look at the catch light used in A Man Escaped and how it gave life to the image
 the ineficency of lights and how they arnt very light efficent so they need stong lights to power
 
 (soft light was used since the being of cinema how)
+
+
+
+
+## Henri Deca
+
+Look at Henri Decae's work with Jean-Pierre Melville and François Truffaut on 400 Blows
+Henri Decae also worked with Jacques Dupont
+
+
+
+
+
+
+
+## Raoul Coutard
 
 
 Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat1963]
@@ -172,8 +211,6 @@ Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat196
 
 @godardPetitSoldat1963
 
-Look at Henri Decae's work with Jean-Pierre Melville and François Truffaut on 400 Blows
-Henri Decae also worked with Jacques Dupont
 
 
 "It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film" [@rogerdeakinsWhenDidSoft2017a]
@@ -181,7 +218,7 @@ Henri Decae also worked with Jacques Dupont
 
 
 
-## how not all of French cinema from 1950 to 1960 is the new wave
+### how not all of French cinema from 1950 to 1960 is the new wave
 
 
 
@@ -197,24 +234,43 @@ Looking at how they also took infludence from italian neo realism
 
 Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement. -->
 
+## Andrzej Wajda
+
+
+## Edward Kłosiński
+
+
+## Witold Sobociński
 
 
 # The British New Wave
 
 <!-- The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches. -->
 
-
+## John Alcott
 
 how technology is used to
 
 looking at John Alcott and creating even more reflectors  Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott.
+
+
+## Ozzie Morris
 
 Ozzie Morris' use of space lights and
 
 > _"It's interesting to look at the work of Geoffrey Unsworth and Ozzie Morris because they came out of the British studio system and their lighting styles was always a mix of old-school hard light and more modern soft-light techniques -- and then compare them with someone like David Watkin who came out of shooting industrials, documentaries, and commercials. Also, look at Unsworth's work on "2001" (1968), which is mostly soft-lit"_ @davidmullenWhenDidSoft2017
 
 
+## Geoffrey Unsworth
+
 "It was the demands of such cinematographers for a softer look, especially in the shooting of commercials, that influenced what the film equipment manufacturers made rather than the other way around. The development of Space Lights made economical sense when film directors and cinematographers demanded their large interior stage sets looked real.  HMIs were invented because there was a demand for ever larger sources of light that could be softened down or bounced to appear more naturalistic. Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott." @rogerdeakinsWhenDidSoft2017a
+
+
+
+
+
+# Conclusion 
+
 
 
 
