@@ -146,6 +146,8 @@ Néstor Almendros also discussed where this softer lighting style might have ori
 
 # Post War France Cinema
 
+<!-- Overall, the influence of Italian neorealism on the French New Wave was significant, and it helped to shape the movement's focus on realism and its rejection of traditional cinematic forms and conventions. This influence can be seen in the work of French New Wave filmmakers such as François Truffaut and Jean-Luc Godard, who were heavily influenced by Italian neorealism and its techniques and approaches. -->
+
 From 1950 to 1960, France was rife with artistic experimentation, including one of the most influential film movements. The Nouvelle Vague brought upon us the birth of auteur theory. In the age of experimental auteurs, there were also experimental cinematographers, most notably the likes of Raoul Coutard, Henri Decae and Léonce-Henri Burel.
 
 Although Robert Bresson’s work is not thought to be part being part of the French New Wave, However it still was none the less highly influential in a multiple of ways, his way of lighting being one of them. The lighting in Bressons' films had evolved though multiple films and Cinematographers, two of the most notably being Philippe Agostini and Léonce-Henri Burel. Agostini's films with Bresson had softer elements with elements of softer lighting using the standard techniques of to achieve soft lighting. However, this change with Bressons' collaboration with Léonce-Henri Burel where this technique was used to a far greater extent, most notably on the films Diary of a Country Priest (1951), A Man Escaped (1956) and Pickpocket (1959).
@@ -196,7 +198,13 @@ Looking at how they also took infludence from italian neo realism
 Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement. -->
 
 
+
 # The British New Wave
+
+<!-- The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches. -->
+
+
+
 how technology is used to
 
 looking at John Alcott and creating even more reflectors  Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott.
