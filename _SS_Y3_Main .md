@@ -114,6 +114,10 @@ To be able to understand the history of soft lighting i will look at the ways so
 
 
 
+
+When using softer lighting in a film there are some inhearent benitits and drawbacks. --— in his essay puts it best 
+
+
 ### The Beniftis
 faster turnaround as a scene would not have to be relit for every shot
 
