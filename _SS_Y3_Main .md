@@ -114,6 +114,10 @@ To be able to understand the history of soft lighting i will look at the ways so
 
 
 
+
+When using softer lighting in a film there are some inhearent benitits and drawbacks. --— in his essay puts it best 
+
+
 ### The Beniftis
 faster turnaround as a scene would not have to be relit for every shot
 
@@ -168,6 +172,9 @@ Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat196
 
 Look at Henri Decae's work with Jean-Pierre Melville and François Truffaut on 400 Blows
 Henri Decae also worked with Jacques Dupont
+
+
+"It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film" @davidmullenWhenDidSoft2017
 
 
 
