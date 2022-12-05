@@ -191,6 +191,11 @@ Looking at how they also took infludence from italian neo realism
 
 
 
+<!-- The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.
+
+Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement. -->
+
+
 # The British New Wave
 how technology is used to
 
