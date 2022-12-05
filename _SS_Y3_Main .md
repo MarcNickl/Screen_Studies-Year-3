@@ -148,19 +148,32 @@ During an interview in Masters of Light, Néstor Almendros discussed the look of
 
 Néstor Almendros also discussed where this softer lighting style might have originated "Films of the period like Open City and Shoeshine made by other cinematographers had an interesting look, not because the director of photography wanted it that way; it was due to lack of money." [@schaeferMastersLightConversations2013, 5]
 
-## Rome Open City (1945)
+
+## Ubaldo Arata
+
+### Rome Open City (1945)
+
+Roberto Rossellini
 
 "Roma città aperta was shot in the same way that conventional feature films were shot at the time, mostly in a studio. However, the production was ‘poor’ for purely historical reasons: electrical power and production funding were scarce and unreliable. The ‘look’ of a film is largely the product of the lighting. For the interiors, mostly shot in a studio, the filmmakers had no alternative but to use large amounts of artificial light, and one problem they faced was that of getting power for the lighting units. They had a generator, but fuel was hard to obtain. Once they had solved the problem by purloining current from a nearby American forces newspaper office, there was no reason why the DP should not light his sets in the normal way (except that Arata found himself short of bulbs for the lighting units)." [@wagstaffItalianNeorealistCinema2007]
 
-## Shoeshine (1946)
+
+## Anchise Brizzi 
+
+### Shoeshine (1946)
+Vittorio De Sica
 
 
 ## G.R. Aldo
 
 ### La Terra Trema
+Luchino Visconti
 
 ### Umberto D. (1952)
+Vittorio De Sica
 
+
+"It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film School" [@rogerdeakinsWhenDidSoft2017a]
 
 # Post War French Cinema
 
@@ -279,5 +292,5 @@ Ozzie Morris' use of space lights and
 
 \section{List of Figures}
 
-Figure 1. Holben, J. (2020) _Light Quality 101_.
-Figure 2. _Le petit soldat_. (1963)
+Figure 1. Holben, J. (2020) _Light Quality 101_. <hr>
+Figure 2. _Le petit soldat_. (1963).\
