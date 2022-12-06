@@ -54,7 +54,7 @@ toc_depth: 4
 
  \vspace{0.5cm}
         \Large
-    How did softlight affected naturalism in early european cinema?
+    How has softlight affected naturalism in early european cinema?
 
 
 
@@ -99,8 +99,28 @@ In this essay i will be looking at how the evolution of soft light and how it pl
 Saying one cinematic movement is responsible for the the entirely of softer lighting in film wouldnt be right. However in film there have been Film Movements that have created noticable change to how we light today. in this essay i will be looking at 4 Major movements. Sarting with Italian Neo Realism then moving onto the avantgard movement in france from 1950 till 1960 going on to the polish film school movement in the same time frame lastly going on to the british new wave from 1960 till the 1970's.
 
 
+set up the question in the introduction
+
+
+look into how soft light aftects naturalism
+
+make the introduction transfrom f to the history of softlight and the people who have used
+
+Define terms of soft light
+
+give a time frame for early europiean cinema
+
+define naturalism
+
+
+when looking at the people who used soft light look at how they used naturalism
+
+
+
+
 ## What is soft light?
 To be able to understand the history of soft lighting i will look at the ways soft light is created and the effect it produces Jay Holben discribes this process will in two issues of the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]
+
 
 
 "The closer the source is to your subject, the softer the light will be. As light becomes softer, the shadow transition becomes longer and more gradual. Soft light is, by its nature, very low in contrast_. It can be non-directional and even feel "sourceless," meaning that it's hard to determine what direction the light is coming from. It can hide the texture of an object, even at extreme angles. Extremely soft light can create a nearly shadowless environment." @holbenLightQuality1012020
@@ -132,14 +152,15 @@ would this work if this doesnt works
 just one more test
 
 
+
 ## Pre Realism
 looking at the soft 1930's and lens filters
 
 
-"Earliest silent movies were shot in studios under glass roofs with muslin cloth stretched across, so were under soft light. One of the most popular lights in the silent era were Cooper-Hewitts, which were gas-discharge fixtures in tubes, a cross between a mercury vapor streetlamp and a fluorescent tube, and produced a soft light. Cinematographers like Charles Rosher did lovely lighting effects by mixing hard carbon arc lamps with soft Cooper-Hewitt lamps. So soft lighting is not a modern phenomenon. David Mullen (2012) History of Hard and Soft Lighting." [@davidmullenHistoryHardSoft2012]
+"Earliest silent movies were shot in studios under glass roofs with muslin cloth stretched across, so were under soft light. One of the most popular lights in the silent era were Cooper-Hewitts, which were gas-discharge fixtures in tubes, a cross between a mercury vapor streetlamp and a fluorescent tube, and produced a soft light. Cinematographers like Charles Rosher did lovely lighting effects by mixing hard carbon arc lamps with soft Cooper-Hewitt lamps. So soft lighting is not a modern phenomenon."   [@mullenHistoryHardSoft2012]
 
 
-"Sound killed the use of the noisy Cooper-Hewitts (as did color). But many 1930's movies still created soft lighting using tungsten lamps through spun glass or silks. By like all styles, people became tired of it and the sharper, crisper look using harder lights become the norm by the 1940's.David Mullen (2012) History of Hard and Soft Lighting." [@davidmullenHistoryHardSoft2012]
+"Sound killed the use of the noisy Cooper-Hewitts (as did color). But many 1930's movies still created soft lighting using tungsten lamps through spun glass or silks. By like all styles, people became tired of it and the sharper, crisper look using harder lights become the norm by the 1940's" [@mullenHistoryHardSoft2012]
 
 
 
@@ -173,18 +194,19 @@ Luchino Visconti
 Vittorio De Sica
 
 
-"It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film School" [@rogerdeakinsWhenDidSoft2017a]
+"It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film School" [@deakinsWhenDidSoft2017]
 
 # Post War French Cinema
 
-<!-- Overall, the influence of Italian neorealism on the French New Wave was significant, and it helped to shape the movement's focus on realism and its rejection of traditional cinematic forms and conventions. This influence can be seen in the work of French New Wave filmmakers such as François Truffaut and Jean-Luc Godard, who were heavily influenced by Italian neorealism and its techniques and approaches. -->
+**Overall, the influence of Italian neorealism on the French New Wave was significant, and it helped to shape the movement's focus on realism and its rejection of traditional cinematic forms and conventions. This influence can be seen in the work of French New Wave filmmakers such as François Truffaut and Jean-Luc Godard, who were heavily influenced by Italian neorealism and its techniques and approaches. **
+
 
 From 1950 to 1960, France was rife with artistic experimentation, including one of the most influential film movements. The Nouvelle Vague brought upon us the birth of auteur theory. In the age of experimental auteurs, there were also experimental cinematographers, most notably the likes of Raoul Coutard, Henri Decae and Léonce-Henri Burel.
 
 
 ## Léonce-Henri Burel
 
-<!-- Robert Bresson was a French filmmaker who was active during the 20th century. He is best known for his austere and minimalist approach to filmmaking, and he is widely regarded as one of the most important and influential figures in the history of French cinema. Bresson is often associated with the French New Wave, which was a movement in French cinema that emerged in the 1950s and became prominent in the 1960s. This movement was characterized by a focus on realism and experimentation, and was associated with a group of young filmmakers who sought to break with traditional cinematic conventions and create a new kind of cinema. However, Bresson's work was distinctive and did not necessarily conform to the conventions of the French New Wave, so he is not always considered to be a part of this movement. Instead, he is often considered to be a filmmaker who worked outside of traditional film movements and developed his own unique style and approach to cinema. -->
+**Robert Bresson was a French filmmaker who was active during the 20th century. He is best known for his austere and minimalist approach to filmmaking, and he is widely regarded as one of the most important and influential figures in the history of French cinema. Bresson is often associated with the French New Wave, which was a movement in French cinema that emerged in the 1950s and became prominent in the 1960s. This movement was characterized by a focus on realism and experimentation, and was associated with a group of young filmmakers who sought to break with traditional cinematic conventions and create a new kind of cinema. However, Bresson's work was distinctive and did not necessarily conform to the conventions of the French New Wave, so he is not always considered to be a part of this movement. Instead, he is often considered to be a filmmaker who worked outside of traditional film movements and developed his own unique style and approach to cinema.**
 
 Although Robert Bresson’s work is not thought to be part being part of the French New Wave, However it still was none the less highly influential in a multiple of ways, his way of lighting being one of them. The lighting in Bressons' films had evolved though multiple films and Cinematographers, two of the most notably being Philippe Agostini and Léonce-Henri Burel. Agostini's films with Bresson had softer elements with elements of softer lighting using the standard techniques of to achieve soft lighting. However, this change with Bressons' collaboration with Léonce-Henri Burel where this technique was used to a far greater extent, most notably on the films Diary of a Country Priest (1951), A Man Escaped (1956) and Pickpocket (1959).
 
@@ -242,10 +264,11 @@ Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat196
 Looking at how they also took infludence from italian neo realism
 
 
+**The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.**
 
-<!-- The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.
 
-Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement. -->
+**Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement.**
+
 
 ## Andrzej Wajda
 
@@ -258,7 +281,7 @@ Some notable cinematographers who worked during the Polish Film School movement 
 
 # The British New Wave
 
-<!-- The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches. -->
+**The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.**
 
 ## John Alcott
 
