@@ -94,7 +94,16 @@ toc_depth: 4
 
 
 # Introduction
-In this essay i will be looking at how the evolution of soft light and how it plays a major a part of creating a natural looking image. i will look at the main contibutors in the evolution of soft light from 1940's till the 1970's.
+In this essay i will be looking at how the evolution of soft light and how it plays a major a part of creating a natural looking image. i will look at the main contibutors in the evolution of soft light from 1940 till the 1970's. 
+
+Whilest soft lighting is a naturaly occuring phenomina how it is used has a great impact on the image going from a more realist look of a room where sun light is scattered into a room the oposite to this would be The Construct in The Matrix (1999) Soureless nature of The Construct is a perfect example to how soft light can be used to have the polar oposite effect by having no visible shadows or light sourse light.
+
+\begin{figure}[H]
+    \centering
+\includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/LA4249F0.jpg}
+\caption{\textit{The Matrix} (1999)}
+    \label{fig:The Matrix}
+\end{figure}
 
 Saying one cinematic movement is responsible for the the entirely of softer lighting in film wouldnt be right. However in film there have been Film Movements that have created noticable change to how we light today. in this essay i will be looking at 4 Major movements. Sarting with Italian Neo Realism then moving onto the avantgard movement in france from 1950 till 1960 going on to the polish film school movement in the same time frame lastly going on to the british new wave from 1960 till the 1970's.
 
@@ -114,6 +123,7 @@ define naturalism
 
 
 when looking at the people who used soft light look at how they used naturalism
+
 
 
 
@@ -150,7 +160,6 @@ greater power requirements as
 
 would this work if this doesnt works
 just one more test
-
 
 
 ## Pre Realism
@@ -219,12 +228,12 @@ the ineficency of lights and how they arnt very light efficent so they need ston
 
 
 
-## Henri Deca
+## Henri Decaë
 
 Look at Henri Decae's work with Jean-Pierre Melville and François Truffaut on 400 Blows
 Henri Decae also worked with Jacques Dupont
 
-
+**Henri Decaë was a French cinematographer who was known for his contributions to the realism movement in cinema. Decaë began his career in the 1940s, and quickly gained a reputation for his ability to create naturalistic, highly detailed images. He worked on a number of films in the 1950s and 1960s that were known for their realistic portrayal of everyday life, including "Rififi" and "Bob le Flambeur". Decaë was also known for his ability to shoot on location, which helped to further enhance the sense of realism in his films. Despite his focus on realism, Decaë was also able to create striking and imaginative visuals, and his work continues to be celebrated by filmmakers and critics alike.**
 
 
 
@@ -263,32 +272,6 @@ Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat196
 
 
 
-# Polish Film School Movement
-Looking at how they also took infludence from italian neo realism
-
-
-**The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.**
-
-
-**Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement.**
-
-
-## Jerzy Wójcik
-### Ashes and Diamonds
-
-## Edward Kłosiński
-### Illumination
-
-## Witold Sobociński
-**Witold Sobociński was a Polish cinematographer known for his use of soft light in his work. Sobociński often used diffused light sources to create a warm, atmospheric look in his films. This approach helped to create a sense of intimacy and emotional depth in his scenes. Sobociński's use of soft light was particularly notable in his collaborations with director Krzysztof Zanussi, including in the films "The Constant Factor" and "From a Far Country."**
-
-
-### The Promised Land
-
-### The Constant Factor
-
-
-
 # The British cinema and its New Wave
 
 **The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.**
@@ -324,7 +307,42 @@ Ozzie Morris' use of space lights and
 
 
 
+# Other Europiean Movemets and influences 
 
+## Polish Film School Movement
+Looking at how they also took infludence from italian neo realism
+
+
+**The Polish Film School was a movement that began in the 1950s and lasted through the 1970s, during which time Polish filmmakers created a new, more realistic form of cinema. One of the key techniques used by these filmmakers was the use of soft light, which helped to create a more natural and realistic look in their films.**
+
+**The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.**
+
+
+**Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement.**
+
+
+### Jerzy Wójcik
+#### Ashes and Diamonds
+Andrzej Wajda
+
+
+### Witold Sobociński
+**Witold Sobociński was a Polish cinematographer known for his use of soft light in his work. Sobociński often used diffused light sources to create a warm, atmospheric look in his films. This approach helped to create a sense of intimacy and emotional depth in his scenes. Sobociński's use of soft light was particularly notable in his collaborations with director Krzysztof Zanussi, including in the films "The Constant Factor" and "From a Far Country."**
+
+
+### The Promised Land
+
+### The Constant Factor
+
+
+
+## Ingmar Bergman
+**Ingmar Bergman was a Swedish director and writer who is widely considered one of the greatest filmmakers of all time. He was known for his commitment to realism in his work, often depicting complex psychological states and interpersonal relationships with great attention to detail and accuracy. Bergman's films often explored themes of isolation, faith, and the human condition, and he was known for his willingness to tackle difficult and controversial subjects. He was particularly interested in exploring the inner workings of the human mind, and many of his films feature intense, intimate portrayals of characters struggling with their emotions and relationships. His use of realism was a key element of his storytelling, and helped to make his films powerful and enduring.**
+
+
+**As a director, Ingmar Bergman worked with a number of different cinematographers throughout his career. Some of the most notable include Sven Nykvist, who worked on many of Bergman's most famous films, including "Persona" and "Fanny and Alexander"; Gunnar Fischer, who shot several of Bergman's early films, including "The Seventh Seal" and "Smiles of a Summer Night"; and Hilding Bladh, who collaborated with Bergman on several of his later films, including "Scenes from a Marriage" and "The Magic Flute". Other cinematographers who worked with Bergman include Gunnar Olsson, Mikael Graversen, and Jörgen Persson.**
+
+### Sven Nykvist
 
 # Conclusion 
 
@@ -336,5 +354,6 @@ Ozzie Morris' use of space lights and
 
 \section{List of Figures}
 
-Figure 1. Holben, J. (2020) _Light Quality 101_. <hr>
-Figure 2. _Le petit soldat_. (1963).\
+Figure 1. _The Matrix_. (1999). <hr>
+Figure 2. Holben, J. (2020) _Light Quality 101_. <hr>
+Figure 3. _Le petit soldat_. (1963).\
