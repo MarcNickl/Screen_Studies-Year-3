@@ -80,23 +80,24 @@ toc_depth: 4
 \tableofcontents
 \pagebreak
 
-\vspace{20pt}
-
-\begin{center}
-“An endless struggle with great benefits of satisfaction when you get to the end” (Broomfield, 2017)
-
-\end{center}
-
-\vspace{20pt}
-
-
-\emph{this is a inline test to see if it works}
-
 
 # Introduction
-In this essay i will be looking at how the evolution of soft light and how it plays a major a part of creating a natural looking image. i will look at the main contibutors in the evolution of soft light from 1940 till the 1970's. 
+In this essay, I will look at how the evolution of soft light and how it is used to create a natural-looking image. To further understand its historical evolution, I will look at some of the key cinematographers who have used and contributed to the evolution of soft light and how they have used it to create more realistic images. I will focus on three film movements and periods, among other influences, from 1940 to the 1970s.
 
-Whilest soft lighting is a naturaly occuring phenomina how it is used has a great impact on the image going from a more realist look of a room where sun light is scattered into a room the oposite to this would be The Construct in The Matrix (1999) Soureless nature of The Construct is a perfect example to how soft light can be used to have the polar oposite effect by having no visible shadows or light sourse light.
+The movements I will look at are Italian neo-realism, French cinema from 1950 to 1960 and British kitchen sink/new wave from 1960 to the 1970s. I will also look at individuals and smaller movements that have used realism to great effect, like Ingmar Bergman and the Polish Film School movement.
+
+Whilst soft lighting is a naturally occurring phenomenon that has been used in cinema since the beginning. However, the goal behind using it has not always been realism. This is partly because of realist film movements like Italian neorealism started gaining critical acclaim 40s.
+
+Whilst soft lighting is a naturally occurring phenomena how it is used has a great impact on the image going from a more realist look of a room where sunlight is scattered into a room like in Fish Tank (2008). Figure \ref{fig:FishTank} is an good example of this an one cant see when the light affecting the subject is coming from.
+
+\begin{figure}[H]
+    \centering
+\includegraphics[width=0.6\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/RKHCQCJB.jpg}
+\caption{\textit{Fish Tank} (2009)}
+    \label{fig:FishTank}
+\end{figure}
+
+The opposite to this would be The Construct in The Matrix (1999) Sourceless nature of The Construct is a perfect example to how soft light can have the polar opposite effect by having no visible shadows or light source.
 
 \begin{figure}[H]
     \centering
@@ -105,15 +106,13 @@ Whilest soft lighting is a naturaly occuring phenomina how it is used has a grea
     \label{fig:The Matrix}
 \end{figure}
 
-Saying one cinematic movement is responsible for the the entirely of softer lighting in film wouldnt be right. However in film there have been Film Movements that have created noticable change to how we light today. in this essay i will be looking at 4 Major movements. Sarting with Italian Neo Realism then moving onto the avantgard movement in france from 1950 till 1960 going on to the polish film school movement in the same time frame lastly going on to the british new wave from 1960 till the 1970's.
 
 
-set up the question in the introduction
 
 
 look into how soft light aftects naturalism
 
-make the introduction transfrom f to the history of softlight and the people who have used
+make the introduction transfrom to the history of softlight and the people who have used
 
 Define terms of soft light
 
@@ -129,9 +128,8 @@ when looking at the people who used soft light look at how they used naturalism
 
 
 ## What is soft light?
+
 To be able to understand the history of soft lighting i will look at the ways soft light is created and the effect it produces Jay Holben discribes this process will in two issues of the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]
-
-
 
 "The closer the source is to your subject, the softer the light will be. As light becomes softer, the shadow transition becomes longer and more gradual. Soft light is, by its nature, very low in contrast_. It can be non-directional and even feel "sourceless," meaning that it's hard to determine what direction the light is coming from. It can hide the texture of an object, even at extreme angles. Extremely soft light can create a nearly shadowless environment." @holbenLightQuality1012020
 
@@ -142,8 +140,9 @@ To be able to understand the history of soft lighting i will look at the ways so
     \label{fig:ASC101}
 \end{figure}
 
+This sourcelessness can be used to either create a natural looking image for example in
 
-
+one of the main beinfits of  "soft lighting is more generalized in a space allowing actors to move more freely, or for the blocking to be changed in the last minute." [@mullenHistoryHardSoft2012]
 
 When using softer lighting in a film there are some inhearent benitits and drawbacks. --— in his essay puts it best 
 
@@ -171,6 +170,12 @@ looking at the soft 1930's and lens filters
 
 "Sound killed the use of the noisy Cooper-Hewitts (as did color). But many 1930's movies still created soft lighting using tungsten lamps through spun glass or silks. By like all styles, people became tired of it and the sharper, crisper look using harder lights become the norm by the 1940's" [@mullenHistoryHardSoft2012]
 
+\begin{figure}[H]
+    \centering
+\includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/VNS6EA9W.jpg}
+\caption{\textit{Der letzte Mann} (1925)}
+    \label{fig:Der letzte Mann}
+\end{figure}
 
 
 # Italian Neo Realism
@@ -354,6 +359,8 @@ Andrzej Wajda
 
 \section{List of Figures}
 
-Figure 1. _The Matrix_. (1999). <hr>
-Figure 2. Holben, J. (2020) _Light Quality 101_. <hr>
-Figure 3. _Le petit soldat_. (1963).\
+Figure 1. _Fish Tank_. (2009). <hr>
+Figure 2. _The Matrix_. (1999). <hr>
+Figure 3. _Der letzte Mann_. (1925).  <hr>
+Figure 4. Holben, J. (2020) _Light Quality 101_. <hr>
+Figure 5. _Le petit soldat_. (1963).\
