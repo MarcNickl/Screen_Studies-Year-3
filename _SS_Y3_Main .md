@@ -196,7 +196,7 @@ Vittorio De Sica
 
 "It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film School" [@deakinsWhenDidSoft2017]
 
-# Post War French Cinema
+# French Cinema and its New Wave
 
 **Overall, the influence of Italian neorealism on the French New Wave was significant, and it helped to shape the movement's focus on realism and its rejection of traditional cinematic forms and conventions. This influence can be seen in the work of French New Wave filmmakers such as François Truffaut and Jean-Luc Godard, who were heavily influenced by Italian neorealism and its techniques and approaches. **
 
@@ -231,6 +231,9 @@ Henri Decae also worked with Jacques Dupont
 
 
 ## Raoul Coutard
+
+
+**Coutard was known for his ability to work quickly and efficiently, and his use of natural light allowed him to shoot in a variety of locations without the need for heavy and expensive lighting equipment. His use of soft light was instrumental in the development of the French New Wave style of filmmaking,**
 
 
 Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat1963]
@@ -270,36 +273,54 @@ Looking at how they also took infludence from italian neo realism
 **Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement.**
 
 
-## Andrzej Wajda
-
+## Jerzy Wójcik
+### Ashes and Diamonds
 
 ## Edward Kłosiński
-
+### Illumination
 
 ## Witold Sobociński
+**Witold Sobociński was a Polish cinematographer known for his use of soft light in his work. Sobociński often used diffused light sources to create a warm, atmospheric look in his films. This approach helped to create a sense of intimacy and emotional depth in his scenes. Sobociński's use of soft light was particularly notable in his collaborations with director Krzysztof Zanussi, including in the films "The Constant Factor" and "From a Far Country."**
 
 
-# The British New Wave
+### The Promised Land
+
+### The Constant Factor
+
+
+
+# The British cinema and its New Wave
 
 **The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.**
 
 ## John Alcott
 
+
+**John Alcott's use of soft light was a key element of his approach to cinematography. In many of his films, Alcott used large, diffused light sources to create a soft and even lighting effect. This helped to create a more natural and realistic look in his films, and it allowed him to capture subtle details and textures in the actors' faces and costumes. Alcott was also known for his use of low-key lighting, which involved using relatively low levels of light to create a moody and atmospheric effect. This approach was particularly effective in The Shining, where Alcott used low-key lighting to create a sense of unease and tension. Overall, Alcott's use of soft light was an important part of his distinctive visual style, and it helped to make his films both visually striking and emotionally powerful.**
+
+**Alcott used reflected light in many of his films with Kubrick, including 2001: A Space Odyssey and A Clockwork Orange. In these films, he used large softboxes and bounced light off of the walls and ceilings of the sets in order to create a soft and even lighting effect. This helped to create a more natural and realistic look in the films, and it allowed Alcott to capture subtle details and textures in the actors' faces and costumes. Overall, Alcott's use of reflected light was an important part of his approach to cinematography, and it helped to make his films both visually striking and emotionally powerful.**
+
 how technology is used to
 
 looking at John Alcott and creating even more reflectors  Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott.
 
+"HMIs were invented because there was a demand for ever larger sources of light that could be softened down or bounced to appear more naturalistic. Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott." [@deakinsWhenDidSoft2017]
 
 ## Ozzie Morris
 
 Ozzie Morris' use of space lights and
 
-> _"It's interesting to look at the work of Geoffrey Unsworth and Ozzie Morris because they came out of the British studio system and their lighting styles was always a mix of old-school hard light and more modern soft-light techniques -- and then compare them with someone like David Watkin who came out of shooting industrials, documentaries, and commercials. Also, look at Unsworth's work on "2001" (1968), which is mostly soft-lit"_ @davidmullenWhenDidSoft2017
+> _"It's interesting to look at the work of Geoffrey Unsworth and Ozzie Morris because they came out of the British studio system and their lighting styles was always a mix of old-school hard light and more modern soft-light techniques -- and then compare them with someone like David Watkin who came out of shooting industrials, documentaries, and commercials. Also, look at Unsworth's work on "2001" (1968), which is mostly soft-lit"_ [@mullenWhenDidSoft2017]
+
+**Ozzie Morris was a British cinematographer who was known for his use of soft light in his films. He began his career in the 1950s and worked on a number of films during this time, but it was his collaboration with director Carol Reed on the film Oliver! (1968) that brought him to prominence. Morris's use of soft light in this film helped to create a more natural and realistic look, and his lighting techniques were instrumental in defining the visual style of the film**
+
 
 
 ## Geoffrey Unsworth
 
-"It was the demands of such cinematographers for a softer look, especially in the shooting of commercials, that influenced what the film equipment manufacturers made rather than the other way around. The development of Space Lights made economical sense when film directors and cinematographers demanded their large interior stage sets looked real.  HMIs were invented because there was a demand for ever larger sources of light that could be softened down or bounced to appear more naturalistic. Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott." @rogerdeakinsWhenDidSoft2017a
+2001: A Space Odyssey
+
+"It was the demands of such cinematographers for a softer look, especially in the shooting of commercials, that influenced what the film equipment manufacturers made rather than the other way around. The development of Space Lights made economical sense when film directors and cinematographers demanded their large interior stage sets looked real.  HMIs were invented because there was a demand for ever larger sources of light that could be softened down or bounced to appear more naturalistic. Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott." [@deakinsWhenDidSoft2017]
 
 
 
