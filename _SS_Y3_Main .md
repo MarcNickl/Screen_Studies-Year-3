@@ -82,17 +82,17 @@ toc_depth: 4
 
 
 # Introduction
-In this essay, I will look at how the evolution of soft light and how it is used to create a natural-looking image. To further understand its historical evolution, I will look at some of the key cinematographers who have used and contributed to the evolution of soft light and how they have used it to create more realistic images. I will focus on three film movements and periods, among other influences, from 1940 to the 1970s.
+This project looks at the evolution of softlight, I will look at how the evolution of soft light and how it is used to create a natural-looking image. To further understand its historical evolution, I will look at some of the key cinematographers who have used and contributed to the evolution of soft light and how they have used it to create more realistic images. I will focus on three film movements and periods, among other influences, from 1940 to the 1970s.
 
 The movements I will look at are Italian neo-realism, French cinema from 1950 to 1960 and British kitchen sink/new wave from 1960 to the 1970s. I will also look at individuals and smaller movements that have used realism to great effect, like Ingmar Bergman and the Polish Film School movement.
 
 Whilst soft lighting is a naturally occurring phenomenon that has been used in cinema since the beginning. However, the goal behind using it has not always been realism. This is partly because of realist film movements like Italian neorealism started gaining critical acclaim 40s.
 
-Whilst soft lighting is a naturally occurring phenomena how it is used has a great impact on the image going from a more realist look of a room where sunlight is scattered into a room like in Fish Tank (2008). Figure \ref{fig:FishTank} is an good example of this an one cant see when the light affecting the subject is coming from.
+Whilst soft lighting is a naturally occurring phenomena how it is used has a great impact on the image going from a more realist look of a room where sunlight is scattered into a room like in Fish Tank (2008). Figure \ref{fig:FishTank} is a good example of this and one can’t see when the light affecting the subject is coming from.
 
 \begin{figure}[H]
     \centering
-\includegraphics[width=0.6\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/RKHCQCJB.jpg}
+\includegraphics[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/RKHCQCJB.jpg}
 \caption{\textit{Fish Tank} (2009)}
     \label{fig:FishTank}
 \end{figure}
@@ -108,7 +108,7 @@ The opposite to this would be The Construct in The Matrix (1999) Sourceless natu
 
 
 
-
+use quotes for refering to time perod
 
 look into how soft light aftects naturalism
 
@@ -118,11 +118,15 @@ Define terms of soft light
 
 give a time frame for early europiean cinema
 
-define naturalism
+define naturalism 
 
 
 when looking at the people who used soft light look at how they used naturalism
 
+How will you do it? (methodology; literature review if necessary)
+
+
+Why did you choose to do it, and why are you doing it this way. (rationale & justification) 
 
 
 
@@ -131,7 +135,9 @@ when looking at the people who used soft light look at how they used naturalism
 
 To be able to understand the history of soft lighting i will look at the ways soft light is created and the effect it produces Jay Holben discribes this process will in two issues of the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]
 
-"The closer the source is to your subject, the softer the light will be. As light becomes softer, the shadow transition becomes longer and more gradual. Soft light is, by its nature, very low in contrast_. It can be non-directional and even feel "sourceless," meaning that it's hard to determine what direction the light is coming from. It can hide the texture of an object, even at extreme angles. Extremely soft light can create a nearly shadowless environment." @holbenLightQuality1012020
+"The closer the source is to your subject, the softer the light will be. As light becomes softer, the shadow transition becomes longer and more gradual."
+
+" Soft light is, by its nature, very low in contrast_. It can be non-directional and even feel "sourceless," meaning that it's hard to determine what direction the light is coming from. It can hide the texture of an object, even at extreme angles. Extremely soft light can create a nearly shadowless environment." @holbenLightQuality1012020
 
 \begin{figure}[H]
     \centering
@@ -201,6 +207,8 @@ Vittorio De Sica
 
 ## G.R. Aldo
 
+aldo invoated in that space to create his look and feel
+
 ### La Terra Trema
 Luchino Visconti
 
@@ -212,17 +220,21 @@ Vittorio De Sica
 
 # French Cinema and its New Wave
 
-**Overall, the influence of Italian neorealism on the French New Wave was significant, and it helped to shape the movement's focus on realism and its rejection of traditional cinematic forms and conventions. This influence can be seen in the work of French New Wave filmmakers such as François Truffaut and Jean-Luc Godard, who were heavily influenced by Italian neorealism and its techniques and approaches. **
 
+
+Italian neorealism on the French New Wave was significant, and it helped to shape the movement's focus on realism and its rejection of traditional cinematic forms and conventions. This influence can be seen in the work of French New Wave filmmakers such as François Truffaut and Jean-Luc Godard, who were heavily influenced by Italian neorealism and its techniques and approaches
 
 From 1950 to 1960, France was rife with artistic experimentation, including one of the most influential film movements. The Nouvelle Vague brought upon us the birth of auteur theory. In the age of experimental auteurs, there were also experimental cinematographers, most notably the likes of Raoul Coutard, Henri Decae and Léonce-Henri Burel.
 
 
 ## Léonce-Henri Burel
 
-**Robert Bresson was a French filmmaker who was active during the 20th century. He is best known for his austere and minimalist approach to filmmaking, and he is widely regarded as one of the most important and influential figures in the history of French cinema. Bresson is often associated with the French New Wave, which was a movement in French cinema that emerged in the 1950s and became prominent in the 1960s. This movement was characterized by a focus on realism and experimentation, and was associated with a group of young filmmakers who sought to break with traditional cinematic conventions and create a new kind of cinema. However, Bresson's work was distinctive and did not necessarily conform to the conventions of the French New Wave, so he is not always considered to be a part of this movement. Instead, he is often considered to be a filmmaker who worked outside of traditional film movements and developed his own unique style and approach to cinema.**
-
 Although Robert Bresson’s work is not thought to be part being part of the French New Wave, However it still was none the less highly influential in a multiple of ways, his way of lighting being one of them. The lighting in Bressons' films had evolved though multiple films and Cinematographers, two of the most notably being Philippe Agostini and Léonce-Henri Burel. Agostini's films with Bresson had softer elements with elements of softer lighting using the standard techniques of to achieve soft lighting. However, this change with Bressons' collaboration with Léonce-Henri Burel where this technique was used to a far greater extent, most notably on the films Diary of a Country Priest (1951), A Man Escaped (1956) and Pickpocket (1959).
+
+
+However, Bresson's work was distinctive and did not necessarily conform to the conventions of the French New Wave, so he is not always considered to be a part of this movement
+
+he is often considered to be a filmmaker who worked outside of traditional film movements and developed his own unique style and approach to cinema
 
 look at the catch light used in A Man Escaped and how it gave life to the image
 
@@ -235,19 +247,18 @@ the ineficency of lights and how they arnt very light efficent so they need ston
 
 ## Henri Decaë
 
-Look at Henri Decae's work with Jean-Pierre Melville and François Truffaut on 400 Blows
+Look at Henri Decae's work with Jean-Pierre **Melville** and François Truffaut on 400 Blows
 Henri Decae also worked with Jacques Dupont
 
-**Henri Decaë was a French cinematographer who was known for his contributions to the realism movement in cinema. Decaë began his career in the 1940s, and quickly gained a reputation for his ability to create naturalistic, highly detailed images. He worked on a number of films in the 1950s and 1960s that were known for their realistic portrayal of everyday life, including "Rififi" and "Bob le Flambeur". Decaë was also known for his ability to shoot on location, which helped to further enhance the sense of realism in his films. Despite his focus on realism, Decaë was also able to create striking and imaginative visuals, and his work continues to be celebrated by filmmakers and critics alike.**
+He started out as a still photographer
 
+Decaë began his career in the 1940s, and quickly gained a reputation for his ability to create naturalistic, highly detailed images. 
 
-
+he was also known for his ability to shoot on location, which helped to further enhance the sense of realism in his films
 
 
 ## Raoul Coutard
 
-
-**Coutard was known for his ability to work quickly and efficiently, and his use of natural light allowed him to shoot in a variety of locations without the need for heavy and expensive lighting equipment. His use of soft light was instrumental in the development of the French New Wave style of filmmaking,**
 
 
 Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat1963]
@@ -263,7 +274,7 @@ Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat196
 
 @godardPetitSoldat1963
 
-
+Coutard was known for his ability to work quickly and efficiently, and his use of natural light allowed him to shoot in a variety of locations without the need for heavy and expensive lighting equipment. His use of soft light was instrumental in the development of the French New Wave style of filmmaking.
 
 "It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film" [@rogerdeakinsWhenDidSoft2017a]
 
@@ -279,14 +290,14 @@ Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat196
 
 # The British cinema and its New Wave
 
-**The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.**
+<!-- **The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.** -->
 
 ## John Alcott
 
 
-**John Alcott's use of soft light was a key element of his approach to cinematography. In many of his films, Alcott used large, diffused light sources to create a soft and even lighting effect. This helped to create a more natural and realistic look in his films, and it allowed him to capture subtle details and textures in the actors' faces and costumes. Alcott was also known for his use of low-key lighting, which involved using relatively low levels of light to create a moody and atmospheric effect. This approach was particularly effective in The Shining, where Alcott used low-key lighting to create a sense of unease and tension. Overall, Alcott's use of soft light was an important part of his distinctive visual style, and it helped to make his films both visually striking and emotionally powerful.**
+<!-- **John Alcott's use of soft light was a key element of his approach to cinematography. In many of his films, Alcott used large, diffused light sources to create a soft and even lighting effect. This helped to create a more natural and realistic look in his films, and it allowed him to capture subtle details and textures in the actors' faces and costumes. Alcott was also known for his use of low-key lighting, which involved using relatively low levels of light to create a moody and atmospheric effect. This approach was particularly effective in The Shining, where Alcott used low-key lighting to create a sense of unease and tension. Overall, Alcott's use of soft light was an important part of his distinctive visual style, and it helped to make his films both visually striking and emotionally powerful.**
 
-**Alcott used reflected light in many of his films with Kubrick, including 2001: A Space Odyssey and A Clockwork Orange. In these films, he used large softboxes and bounced light off of the walls and ceilings of the sets in order to create a soft and even lighting effect. This helped to create a more natural and realistic look in the films, and it allowed Alcott to capture subtle details and textures in the actors' faces and costumes. Overall, Alcott's use of reflected light was an important part of his approach to cinematography, and it helped to make his films both visually striking and emotionally powerful.**
+**Alcott used reflected light in many of his films with Kubrick, including 2001: A Space Odyssey and A Clockwork Orange. In these films, he used large softboxes and bounced light off of whthe walls and ceilings of the sets in order to create a soft and even lighting effect. This helped to create a more natural and realistic look in the films, and it allowed Alcott to capture subtle details and textures in the actors' faces and costumes. Overall, Alcott's use of reflected light was an important part of his approach to cinematography, and it helped to make his films both visually striking and emotionally powerful.** -->
 
 how technology is used to
 
@@ -300,7 +311,7 @@ Ozzie Morris' use of space lights and
 
 > _"It's interesting to look at the work of Geoffrey Unsworth and Ozzie Morris because they came out of the British studio system and their lighting styles was always a mix of old-school hard light and more modern soft-light techniques -- and then compare them with someone like David Watkin who came out of shooting industrials, documentaries, and commercials. Also, look at Unsworth's work on "2001" (1968), which is mostly soft-lit"_ [@mullenWhenDidSoft2017]
 
-**Ozzie Morris was a British cinematographer who was known for his use of soft light in his films. He began his career in the 1950s and worked on a number of films during this time, but it was his collaboration with director Carol Reed on the film Oliver! (1968) that brought him to prominence. Morris's use of soft light in this film helped to create a more natural and realistic look, and his lighting techniques were instrumental in defining the visual style of the film**
+<!-- **Ozzie Morris was a British cinematographer who was known for his use of soft light in his films. He began his career in the 1950s and worked on a number of films during this time, but it was his collaboration with director Carol Reed on the film Oliver! (1968) that brought him to prominence. Morris's use of soft light in this film helped to create a more natural and realistic look, and his lighting techniques were instrumental in defining the visual style of the film** -->
 
 
 
@@ -314,16 +325,25 @@ Ozzie Morris' use of space lights and
 
 # Other Europiean Movemets and influences 
 
+show when there are simulatities and diffrences 
+
+just an overview
+
+
+just to contextualise
 ## Polish Film School Movement
 Looking at how they also took infludence from italian neo realism
 
+The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave
 
-**The Polish Film School was a movement that began in the 1950s and lasted through the 1970s, during which time Polish filmmakers created a new, more realistic form of cinema. One of the key techniques used by these filmmakers was the use of soft light, which helped to create a more natural and realistic look in their films.**
+notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor."
 
-**The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.**
+<!-- **The Polish Film School was a movement that began in the 1950s and lasted through the 1970s, during which time Polish filmmakers created a new, more realistic form of cinema. One of the key techniques used by these filmmakers was the use of soft light, which helped to create a more natural and realistic look in their films.** -->
+
+<!-- **The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.** -->
 
 
-**Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement.**
+<!-- **Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement.** -->
 
 
 ### Jerzy Wójcik
@@ -332,7 +352,7 @@ Andrzej Wajda
 
 
 ### Witold Sobociński
-**Witold Sobociński was a Polish cinematographer known for his use of soft light in his work. Sobociński often used diffused light sources to create a warm, atmospheric look in his films. This approach helped to create a sense of intimacy and emotional depth in his scenes. Sobociński's use of soft light was particularly notable in his collaborations with director Krzysztof Zanussi, including in the films "The Constant Factor" and "From a Far Country."**
+<!-- **Witold Sobociński was a Polish cinematographer known for his use of soft light in his work. Sobociński often used diffused light sources to create a warm, atmospheric look in his films. This approach helped to create a sense of intimacy and emotional depth in his scenes. Sobociński's use of soft light was particularly notable in his collaborations with director Krzysztof Zanussi, including in the films "The Constant Factor" and "From a Far Country."** -->
 
 
 ### The Promised Land
@@ -342,17 +362,23 @@ Andrzej Wajda
 
 
 ## Ingmar Bergman
-**Ingmar Bergman was a Swedish director and writer who is widely considered one of the greatest filmmakers of all time. He was known for his commitment to realism in his work, often depicting complex psychological states and interpersonal relationships with great attention to detail and accuracy. Bergman's films often explored themes of isolation, faith, and the human condition, and he was known for his willingness to tackle difficult and controversial subjects. He was particularly interested in exploring the inner workings of the human mind, and many of his films feature intense, intimate portrayals of characters struggling with their emotions and relationships. His use of realism was a key element of his storytelling, and helped to make his films powerful and enduring.**
+<!-- **Ingmar Bergman was a Swedish director and writer who is widely considered one of the greatest filmmakers of all time. He was known for his commitment to realism in his work, often depicting complex psychological states and interpersonal relationships with great attention to detail and accuracy. Bergman's films often explored themes of isolation, faith, and the human condition, and he was known for his willingness to tackle difficult and controversial subjects. He was particularly interested in exploring the inner workings of the human mind, and many of his films feature intense, intimate portrayals of characters struggling with their emotions and relationships. His use of realism was a key element of his storytelling, and helped to make his films powerful and enduring.**
 
 
-**As a director, Ingmar Bergman worked with a number of different cinematographers throughout his career. Some of the most notable include Sven Nykvist, who worked on many of Bergman's most famous films, including "Persona" and "Fanny and Alexander"; Gunnar Fischer, who shot several of Bergman's early films, including "The Seventh Seal" and "Smiles of a Summer Night"; and Hilding Bladh, who collaborated with Bergman on several of his later films, including "Scenes from a Marriage" and "The Magic Flute". Other cinematographers who worked with Bergman include Gunnar Olsson, Mikael Graversen, and Jörgen Persson.**
+**As a director, Ingmar Bergman worked with a number of different cinematographers throughout his career. Some of the most notable include Sven Nykvist, who worked on many of Bergman's most famous films, including "Persona" and "Fanny and Alexander"; Gunnar Fischer, who shot several of Bergman's early films, including "The Seventh Seal" and "Smiles of a Summer Night"; and Hilding Bladh, who collaborated with Bergman on several of his later films, including "Scenes from a Marriage" and "The Magic Flute". Other cinematographers who worked with Bergman include Gunnar Olsson, Mikael Graversen, and Jörgen Persson.** -->
 
 ### Sven Nykvist
+worked with tarkofski
 
 # Conclusion 
 
+Seperate cinematographers from the movments as they arnt liked to a spicific movement but more foucsing on films 
 
+cinematographers hope over the line and have more diversity 
 
+soft light is not inovative but to do it well does involve skill
+
+soft light vs natural light
 
 \pagebreak
 
