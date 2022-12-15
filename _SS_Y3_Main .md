@@ -97,7 +97,7 @@ Whilst soft lighting is a naturally occurring phenomena how it is used has a gre
     \label{fig:FishTank}
 \end{figure}
 
-The opposite to this would be The Construct in The Matrix (1999) Sourceless nature of The Construct is a perfect example to how soft light can have the polar opposite effect by having no visible shadows or light source.
+The opposite to this would be The Construct in The Matrix (1999) Sourceless nature of The Construct is a perfect example of how soft light can have the polar opposite effect by having no visible shadows or light source.
 
 \begin{figure}[H]
     \centering
@@ -108,25 +108,21 @@ The opposite to this would be The Construct in The Matrix (1999) Sourceless natu
 
 
 
-use quotes for refering to time perod
 
-look into how soft light aftects naturalism
 
-make the introduction transfrom to the history of softlight and the people who have used
 
-Define terms of soft light
+
+
+
 
 give a time frame for early europiean cinema
 
-define naturalism 
+ 
 
 
-when looking at the people who used soft light look at how they used naturalism
-
-How will you do it? (methodology; literature review if necessary)
 
 
-Why did you choose to do it, and why are you doing it this way. (rationale & justification) 
+
 
 
 
@@ -190,6 +186,11 @@ During an interview in Masters of Light, Néstor Almendros discussed the look of
 Néstor Almendros also discussed where this softer lighting style might have originated "Films of the period like Open City and Shoeshine made by other cinematographers had an interesting look, not because the director of photography wanted it that way; it was due to lack of money." [@schaeferMastersLightConversations2013, 5]
 
 
+
+"Andre Bazin, proclaimed neo-realism as a cinema of "fact" and "reconstituted reportage" which rejected both dramatic and cinematic conventions and which "respected" the ontological wholeness of the reality it captured, just as the narrated screen time in neo-realist films often "respected" the actual duration of the story." [@felliniSTRADA1987, 4]
+
+
+
 ## Ubaldo Arata
 
 ### Rome Open City (1945)
@@ -205,7 +206,7 @@ Roberto Rossellini
 Vittorio De Sica
 
 
-## G.R. Aldo
+## G.R. Aldo - Main Focus
 
 aldo invoated in that space to create his look and feel
 
@@ -227,37 +228,9 @@ Italian neorealism on the French New Wave was significant, and it helped to shap
 From 1950 to 1960, France was rife with artistic experimentation, including one of the most influential film movements. The Nouvelle Vague brought upon us the birth of auteur theory. In the age of experimental auteurs, there were also experimental cinematographers, most notably the likes of Raoul Coutard, Henri Decae and Léonce-Henri Burel.
 
 
-## Léonce-Henri Burel
+## Raoul Coutard 
 
-Although Robert Bresson’s work is not thought to be part being part of the French New Wave, However it still was none the less highly influential in a multiple of ways, his way of lighting being one of them. The lighting in Bressons' films had evolved though multiple films and Cinematographers, two of the most notably being Philippe Agostini and Léonce-Henri Burel. Agostini's films with Bresson had softer elements with elements of softer lighting using the standard techniques of to achieve soft lighting. However, this change with Bressons' collaboration with Léonce-Henri Burel where this technique was used to a far greater extent, most notably on the films Diary of a Country Priest (1951), A Man Escaped (1956) and Pickpocket (1959).
-
-
-However, Bresson's work was distinctive and did not necessarily conform to the conventions of the French New Wave, so he is not always considered to be a part of this movement
-
-he is often considered to be a filmmaker who worked outside of traditional film movements and developed his own unique style and approach to cinema
-
-look at the catch light used in A Man Escaped and how it gave life to the image
-
-the ineficency of lights and how they arnt very light efficent so they need stong lights to power
-
-(soft light was used since the being of cinema how)
-
-
-
-
-## Henri Decaë
-
-Look at Henri Decae's work with Jean-Pierre **Melville** and François Truffaut on 400 Blows
-Henri Decae also worked with Jacques Dupont
-
-He started out as a still photographer
-
-Decaë began his career in the 1940s, and quickly gained a reputation for his ability to create naturalistic, highly detailed images. 
-
-he was also known for his ability to shoot on location, which helped to further enhance the sense of realism in his films
-
-
-## Raoul Coutard
+I am going to prioritise eather Raoul Coutard or Léonce-Henri Burel - i need to figure out who of the two was more insperational
 
 
 
@@ -276,7 +249,39 @@ Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat196
 
 Coutard was known for his ability to work quickly and efficiently, and his use of natural light allowed him to shoot in a variety of locations without the need for heavy and expensive lighting equipment. His use of soft light was instrumental in the development of the French New Wave style of filmmaking.
 
-"It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film" [@rogerdeakinsWhenDidSoft2017a]
+"It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film" [@deakinsWhenDidSoft2017]
+
+
+
+
+
+## Henri Decaë
+
+Look at Henri Decae's work with Jean-Pierre **Melville** and François Truffaut on 400 Blows
+Henri Decae also worked with Jacques Dupont
+
+He started out as a still photographer
+
+Decaë began his career in the 1940s, and quickly gained a reputation for his ability to create naturalistic, highly detailed images. 
+
+he was also known for his ability to shoot on location, which helped to further enhance the sense of realism in his films
+
+
+
+## Léonce-Henri Burel - Main Focus
+
+Although Robert Bresson’s work is not thought to be part being part of the French New Wave, However it still was none the less highly influential in a multiple of ways, his way of lighting being one of them. The lighting in Bressons' films had evolved though multiple films and Cinematographers, two of the most notably being Philippe Agostini and Léonce-Henri Burel. Agostini's films with Bresson had softer elements with elements of softer lighting using the standard techniques of to achieve soft lighting. However, this change with Bressons' collaboration with Léonce-Henri Burel where this technique was used to a far greater extent, most notably on the films Diary of a Country Priest (1951), A Man Escaped (1956) and Pickpocket (1959).
+
+
+However, Bresson's work was distinctive and did not necessarily conform to the conventions of the French New Wave, so he is not always considered to be a part of this movement
+
+he is often considered to be a filmmaker who worked outside of traditional film movements and developed his own unique style and approach to cinema
+
+look at the catch light used in A Man Escaped and how it gave life to the image
+
+the ineficency of lights and how they arnt very light efficent so they need stong lights to power
+
+(soft light was used since the being of cinema how)
 
 
 
@@ -288,9 +293,9 @@ Coutard was known for his ability to work quickly and efficiently, and his use o
 
 
 
-# The British cinema and its New Wave
+# The British cinema and the Kitchen Sink
 
-<!-- **The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.** -->
+**The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.** 
 
 ## John Alcott
 
@@ -370,6 +375,9 @@ Andrzej Wajda
 ### Sven Nykvist
 worked with tarkofski
 
+
+
+
 # Conclusion 
 
 Seperate cinematographers from the movments as they arnt liked to a spicific movement but more foucsing on films 
@@ -379,6 +387,8 @@ cinematographers hope over the line and have more diversity
 soft light is not inovative but to do it well does involve skill
 
 soft light vs natural light
+
+
 
 \pagebreak
 
