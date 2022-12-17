@@ -111,22 +111,6 @@ The opposite to this would be The Construct in The Matrix (1999) Sourceless natu
 
 
 
-
-
-
-
-give a time frame for early europiean cinema
-
- 
-
-
-
-
-
-
-
-
-
 ## What is soft light?
 
 To be able to understand the history of soft lighting i will look at the ways soft light is created and the effect it produces Jay Holben discribes this process will in two issues of the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]
@@ -150,6 +134,9 @@ When using softer lighting in a film there are some inhearent benitits and drawb
 
 one of the major drawbacks to using softer lighting from a non artistic point is that it requires a lot more light to get a good exposure.
 
+the second major draw back is that soft light by its very nature is uncontrollable 
+
+from my understanding roger deakins uses bounce light and then flags and card to control the spill off the light
 
 ### The Beniftis
 faster turnaround as a scene would not have to be relit for every shot
@@ -180,6 +167,28 @@ looking at the soft 1930's and lens filters
 \end{figure}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Italian Neo Realism
 During an interview in Masters of Light, Néstor Almendros discussed the look of Italian films during the neorealist movement talking about the use of Softer and more natural lighting, mentioning G.R. Aldo (born Aldo Graziati) as one of the most influential people during this time because of his revolutionary work on Umberto D., (1952) and La terra trema, (1949)
 
@@ -206,7 +215,17 @@ Roberto Rossellini
 Vittorio De Sica
 
 
+
+
 ## G.R. Aldo - Main Focus
+
+"Aldo was even before Raoul Coutard in using indirect lighting, using soft lighting. And I think that's because he came to motion pictures from still photography. He came to the cinema not through the usual way of the period, which was to be a loader, an assistant, a focus puller, a cameraoperator, and after all that, many years later becoming a director of photography. He came straight from still and theatrical photography and only because Visconti imposed on him. That's why his lighting was so unconventional for the period. He had not come down the same path. But he really was a source of inspiration. Other films of the period like Open City and Shoeshine made by other cinematographers had an interesting look not because the director of photography wanted it that way; it was due to lack of money. They looked interesting in spite of them. I'm sure that if they had given those cinematographers more money and technical support they would have done something very professional and slick." [@schaeferMastersLightConversations2013, 6]
+
+"What is more, the formation of many neo-realist cinematographers in the field of photojournalism or the newsreel should not be underestimated: two out of the three key names of cinematography of the period come from photography and the newsreel. These were, Aldo Tonti, who was a photojournalist before his cinematic debut and his great work on Luchino Visconti’s Ossessione (Obsession, 1943),23 and Otello Martelli, director of photography on Rossellini’s Paisà (Paisan, 1946) and Giuseppe De Santis’s Riso Amaro (Bitter Rice, 1949), who worked at the Istituto Luce (responsible for newsreels) during the war. The third, Aldo Graziati, cinematographer for Vittorio De Sica’s Umberto D (1948) and Visconti’s La terra trema (The Earth Trembles, 1948), represents an exception, a case of the confluence of a strictly photographic culture in film (as well as a reconciliation between set photography and cinematography). Graziati was a professional photographer, though self-taught, who trained by studying the light of the paintings of Caravaggio and doing an apprenticeship in the photographic studios of Paris, first as a portraitist and then primarily as a set photographer.24 I will later briefly compare Graziati’s and Tonti’s contribution to Visconti’s cinema and the parallel evolution, in terms of documentary, of set photography, a practice that once again demands a close comparison of cinema and photography in those years." [@hillStillnessMotionItaly2014, 194]
+
+
+
+"Visually, La Terra Trema is a very modern movie and Umberto Dis too, as well as Senso. Aldo photographed them." [@schaeferMastersLightConversations2013, 7]
 
 aldo invoated in that space to create his look and feel
 
@@ -219,6 +238,28 @@ Vittorio De Sica
 
 "It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film School" [@deakinsWhenDidSoft2017]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # French Cinema and its New Wave
 
 
@@ -226,6 +267,11 @@ Vittorio De Sica
 Italian neorealism on the French New Wave was significant, and it helped to shape the movement's focus on realism and its rejection of traditional cinematic forms and conventions. This influence can be seen in the work of French New Wave filmmakers such as François Truffaut and Jean-Luc Godard, who were heavily influenced by Italian neorealism and its techniques and approaches
 
 From 1950 to 1960, France was rife with artistic experimentation, including one of the most influential film movements. The Nouvelle Vague brought upon us the birth of auteur theory. In the age of experimental auteurs, there were also experimental cinematographers, most notably the likes of Raoul Coutard, Henri Decae and Léonce-Henri Burel.
+
+
+#### Cinematogrphers not being part of film movements
+
+
 
 
 ## Raoul Coutard 
@@ -286,7 +332,27 @@ the ineficency of lights and how they arnt very light efficent so they need ston
 
 
 
-### how not all of French cinema from 1950 to 1960 is the new wave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -296,6 +362,8 @@ the ineficency of lights and how they arnt very light efficent so they need ston
 # The British cinema and the Kitchen Sink
 
 **The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.** 
+
+**Some well-known examples of British kitchen sink films include Saturday Night and Sunday Morning, A Taste of Honey, and Look Back in Anger.**
 
 ## John Alcott
 
@@ -325,6 +393,18 @@ Ozzie Morris' use of space lights and
 2001: A Space Odyssey
 
 "It was the demands of such cinematographers for a softer look, especially in the shooting of commercials, that influenced what the film equipment manufacturers made rather than the other way around. The development of Space Lights made economical sense when film directors and cinematographers demanded their large interior stage sets looked real.  HMIs were invented because there was a demand for ever larger sources of light that could be softened down or bounced to appear more naturalistic. Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott." [@deakinsWhenDidSoft2017]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
