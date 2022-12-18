@@ -107,17 +107,9 @@ The opposite to this would be The Construct in The Matrix (1999) Sourceless natu
 \end{figure}
 
 
-
-
-
-
 ## What is soft light?
 
-To be able to understand the history of soft lighting i will look at the ways soft light is created and the effect it produces Jay Holben discribes this process will in two issues of the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]
-
-"The closer the source is to your subject, the softer the light will be. As light becomes softer, the shadow transition becomes longer and more gradual."
-
-" Soft light is, by its nature, very low in contrast_. It can be non-directional and even feel "sourceless," meaning that it's hard to determine what direction the light is coming from. It can hide the texture of an object, even at extreme angles. Extremely soft light can create a nearly shadowless environment." @holbenLightQuality1012020
+To be able to understand the history of soft lighting I will first look at the ways soft light is created and the effect it produces, Jay Holben discribes this process will in a the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]. Holben states that "The closer the source is to your subject, the softer the light will be." [@holbenLightQuality1012020]. As the light apears less directional and more scatterer it has the effect of lowering the contrast of the item being iluminated this results in lower contrast as seen in Figure \ref{fig:ASC101}.
 
 \begin{figure}[H]
     \centering
@@ -125,6 +117,12 @@ To be able to understand the history of soft lighting i will look at the ways so
 \caption{\textit{Light Quality 101} (2020)}
     \label{fig:ASC101}
 \end{figure}
+
+As light becomes softer and more the photos become more scattered <!-- is this right --> "the shadow transition becomes longer and more gradual." [@holbenLightQuality1012020] this results in the creation of a "nearly shadowless environment" [@holbenLightQuality1012020], This is due to the  light being scattered so that it is difficult to determine where the light originates from.
+
+
+<!-- I need to find a more sciantific way of discribing photos scattering -->
+
 
 This sourcelessness can be used to either create a natural looking image for example in
 
@@ -158,6 +156,9 @@ looking at the soft 1930's and lens filters
 
 
 "Sound killed the use of the noisy Cooper-Hewitts (as did color). But many 1930's movies still created soft lighting using tungsten lamps through spun glass or silks. By like all styles, people became tired of it and the sharper, crisper look using harder lights become the norm by the 1940's" [@mullenHistoryHardSoft2012]
+
+
+Seen in Der letzte Mann (1925) soft lighting has been around long before 
 
 \begin{figure}[H]
     \centering
