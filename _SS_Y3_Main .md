@@ -3,11 +3,11 @@ title-meta: How has softlight affected naturalism in early European cinema?
 Author-meta: Marc Nickl
 
 abstract: |
-  	This is the abstract.
+      This is the abstract.
 
-  	It comprises two paragraphs.
+      It comprises two paragraphs.
 
-  	\pagebreak
+      \pagebreak
 
 
 linestretch: 1.5
@@ -23,19 +23,19 @@ setuppagenumbering: location={footer,middle},style=\bfc
 reference-section-title: "Bibliography"
 
 header-includes: |
-    	\usepackage{graphicx}
-    	\usepackage{subfig}
-    	\usepackage{duckuments}
-    	\usepackage[export]{adjustbox}
-    	\usepackage{mwe}
-    	\usepackage{multicol}
-    	\usepackage{lipsum}
-    	\usepackage{float}
-    	\usepackage{titlesec}
-    	\titleformat{\subsection}[display]{\fontsize{20pt}{18pt}\bfseries}{}{5pt}{}
-    	\titleformat{\subsubsection}[display]{\fontsize{16pt}{14pt}\bfseries}{}{5pt}{}
-    	\titleformat{\paragraph}[display]{\fontsize{14pt}{15pt}\bfseries}{}{5pt}{}
-    	\setcounter{tocdepth}{3}
+   	 \usepackage{graphicx}
+   	 \usepackage{subfig}
+   	 \usepackage{duckuments}
+   	 \usepackage[export]{adjustbox}
+   	 \usepackage{mwe}
+   	 \usepackage{multicol}
+   	 \usepackage{lipsum}
+   	 \usepackage{float}
+   	 \usepackage{titlesec}
+   	 \titleformat{\subsection}[display]{\fontsize{20pt}{18pt}\bfseries}{}{5pt}{}
+   	 \titleformat{\subsubsection}[display]{\fontsize{16pt}{14pt}\bfseries}{}{5pt}{}
+   	 \titleformat{\paragraph}[display]{\fontsize{14pt}{15pt}\bfseries}{}{5pt}{}
+   	 \setcounter{tocdepth}{3}
 lof: False
 toc_depth: 4
 ...
@@ -46,15 +46,15 @@ toc_depth: 4
 
 
 \begin{titlepage}
-	\begin{center}
-    	\vspace*{4cm}
+    \begin{center}
+   	 \vspace*{4cm}
 
   \huge
-    	\textbf{Sourcelessness}
+   	 \textbf{Sourcelessness}
 
  \vspace{0.5cm}
-    	\Large
-	How has softlighting affected naturalism in early European cinema?
+   	 \Large
+    How has softlighting affected naturalism in early European cinema?
 
 
 
@@ -68,7 +68,7 @@ toc_depth: 4
  \vspace{0.8cm}
 
    \large
-    	Screen Studies
+   	 Screen Studies
 
 \today
 
@@ -80,8 +80,8 @@ toc_depth: 4
 \tableofcontents
 \pagebreak
 
-
 # Introduction
+
 This project looks at the evolution of soft light. I will look at how soft light evolved and how it is used to create a natural-looking image. To further understand its historical evolution, I will look at some of the key cinematographers who have used and contributed to the evolution of soft light and how they have used it to create more realistic images. I will focus on three film movements and periods, among other influences, from 1940 to the 1970s.
 
 The movements I will look at are Italian neorealism, French cinema from 1950 to 1960 and British kitchen sink/new wave from 1960 to the 1970s. I will also look at individuals and smaller movements that have used realism to great effect, like Ingmar Bergman and the Polish Film School movement.
@@ -93,19 +93,19 @@ In Fish Tank (2008). Figure \ref{fig:FishTank} we have a good example of the rea
 
 
 \begin{figure}[H]
-	\centering
+    \centering
 \includegraphics[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/RKHCQCJB.jpg}
 \caption{\textit{Fish Tank} (2009)}
-	\label{fig:FishTank}
+    \label{fig:FishTank}
 \end{figure}
 
 The opposite to this would be The Construct in The Matrix (1999) Sourceless nature of The Construct is a perfect example of how soft light can have the polar opposite effect by having no visible shadows or light source.
 
 \begin{figure}[H]
-	\centering
+    \centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/LA4249F0.jpg}
 \caption{\textit{The Matrix} (1999)}
-	\label{fig:The Matrix}
+    \label{fig:The Matrix}
 \end{figure}
 
 
@@ -114,15 +114,15 @@ The opposite to this would be The Construct in The Matrix (1999) Sourceless natu
 To understand the history of soft lighting, I will first look at the ways in which soft light is created and the effect it produces.  Jay Holben describes this process well in an article from the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]. Holben states that "The closer the source is to your subject, the softer the light will be." [@holbenLightQuality1012020]. As the light appears less directional and more scattered, it has the effect of lowering the contrast of the item being illuminated; this results in lower contrast as seen in Figure \ref{fig:ASC101}.
 
 \begin{figure}[H]
-	\centering
+    \centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 15.08.40.png}
 \caption{\textit{Light Quality 101} (2020)}
-	\label{fig:ASC101}
+    \label{fig:ASC101}
 \end{figure}
 
 As light becomes softer as the photons become more scattered <!-- is this right --> "the shadow transition becomes longer and more gradual." [@holbenLightQuality1012020] this results in creating a "nearly shadowless environment" [@holbenLightQuality1012020], This is because of the light being heavily scattered, so that it is difficult to determine where the light originates from.
 
-There are two primary ways of increasing the size of the source. One of them is Photon diffusion, the other is Diffuse reflection. Photon diffusion also known as ‘through lighting’ or ‘diffused lighting’ works by having a larger piece of partially transparent cloth that doesn't absorb all light there for scattering in with a reduction in intensity. The other way is called Photon diffusion also known as ‘bounced light’. This is where light is bounced into a larger piece of more reflective cloth. Both of these methods increase the size of the light source[^a] therefore softening the light. 
+There are two primary ways of increasing the size of the source. One of them is Photon diffusion, the other is Diffuse reflection. Photon diffusion also known as ‘through lighting’ or ‘diffused lighting’ works by having a larger piece of partially transparent cloth that doesn't absorb all light there for scattering in with a reduction in intensity. The other way is called Photon diffusion also known as ‘bounced light’. This is where light is bounced into a larger piece of more reflective cloth. Both of these methods increase the size of the light source[^a] therefore softening the light.
 
 One of the main benefits for the production is that  "soft lighting is more generalised in a space allowing actors to move more freely, or for the blocking to be changed in the last minute." [@mullenHistoryHardSoft2012] this allows for faster turnarounds for filming and a more natural performance as the actor isn't restricted to their marks. Another benefit of soft lighting is in facial lighting as it produces “more flattering effects” [@allisonLightingTechnologyFilm2007] that hides blemishes on the actors face, this is due to the lower contrast nature of soft light. This was especially important during the star system of the 1910’s where it was “ever more important to make the actors look attractive” [@allisonLightingTechnologyFilm2007].
 
@@ -185,10 +185,10 @@ Seen in Der letzte Mann (1925) shot by Karl Freund used soft light long before I
 
 
 \begin{figure}[H]
-	\centering
+    \centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/VNS6EA9W.jpg}
 \caption{\textit{Der letzte Mann} (1925)}
-	\label{fig:Der letzte Mann}
+    \label{fig:Der letzte Mann}
 \end{figure}
 
 
@@ -196,10 +196,10 @@ the same can be seen in metropolis (1927)
 
 
 \begin{figure}[H]
-	\centering
+    \centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/CZUZUZUZ.jpg}
 \caption{\textit{Metropolis} (1927)}
-	\label{fig:Metropolis}
+    \label{fig:Metropolis}
 \end{figure}
 
 
@@ -211,11 +211,11 @@ before the war and other possible points for the movement to start
 
 
 \begin{figure}[H]
-	\centering
+    \centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-19 at 14.36.25.png
 }
 \caption{\textit{Cenere} (1917)}
-	\label{fig:Der letzte Mann}
+    \label{fig:Der letzte Mann}
 \end{figure}
 
 
@@ -343,10 +343,10 @@ I am going to prioritise eather Raoul Coutard or Léonce-Henri Burel - i need to
 Raoul Coutard's more notable work with soft light was in [-@godardPetitSoldat1963]
 
   \begin{figure}[h!]
-    	\centering
-    	\includegraphics[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 19.11.58.png}
-    	\caption{\textit{Le petit soldat}. (1963) }
-	\end{figure}
+   	 \centering
+   	 \includegraphics[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 19.11.58.png}
+   	 \caption{\textit{Le petit soldat}. (1963) }
+    \end{figure}
 
 
 [@godardPetitSoldat1963]
@@ -544,7 +544,7 @@ soft light vs natural light
 
 \pagebreak
 
-[^a]: A Light source is anything that emits light this can be the primary emitter but can also be a reflection. 
+[^a]: A Light source is anything that emits light this can be the primary emitter but can also be a reflection.
 
 
 \section{List of Figures}
@@ -556,6 +556,9 @@ Figure 4. _Der letzte Mann_. (1925).  <hr>
 Figure 5. _Metropolis_. (1927). <hr>
 Figure 6. _Cenere_. (1917). <hr>
 Figure 6. _Le petit soldat_. (1963).\
+
+
+
 
 
 
