@@ -1,13 +1,13 @@
 ---
-title-meta: Marc Nickl
-Author-meta: Marc AS WELL
+title-meta: How has softlight affected naturalism in early European cinema?
+Author-meta: Marc Nickl
 
 abstract: |
-      This is the abstract.
+  	This is the abstract.
 
-      It comprises two paragraphs.
+  	It comprises two paragraphs.
 
-      \pagebreak
+  	\pagebreak
 
 
 linestretch: 1.5
@@ -23,19 +23,19 @@ setuppagenumbering: location={footer,middle},style=\bfc
 reference-section-title: "Bibliography"
 
 header-includes: |
-        \usepackage{graphicx}
-        \usepackage{subfig}
-        \usepackage{duckuments}
-        \usepackage[export]{adjustbox}
-        \usepackage{mwe}
-        \usepackage{multicol}
-        \usepackage{lipsum}
-        \usepackage{float}
-        \usepackage{titlesec}
-        \titleformat{\subsection}[display]{\fontsize{20pt}{18pt}\bfseries}{}{5pt}{}
-        \titleformat{\subsubsection}[display]{\fontsize{16pt}{14pt}\bfseries}{}{5pt}{}
-        \titleformat{\paragraph}[display]{\fontsize{14pt}{15pt}\bfseries}{}{5pt}{}
-        \setcounter{tocdepth}{3}
+    	\usepackage{graphicx}
+    	\usepackage{subfig}
+    	\usepackage{duckuments}
+    	\usepackage[export]{adjustbox}
+    	\usepackage{mwe}
+    	\usepackage{multicol}
+    	\usepackage{lipsum}
+    	\usepackage{float}
+    	\usepackage{titlesec}
+    	\titleformat{\subsection}[display]{\fontsize{20pt}{18pt}\bfseries}{}{5pt}{}
+    	\titleformat{\subsubsection}[display]{\fontsize{16pt}{14pt}\bfseries}{}{5pt}{}
+    	\titleformat{\paragraph}[display]{\fontsize{14pt}{15pt}\bfseries}{}{5pt}{}
+    	\setcounter{tocdepth}{3}
 lof: False
 toc_depth: 4
 ...
@@ -46,15 +46,15 @@ toc_depth: 4
 
 
 \begin{titlepage}
-    \begin{center}
-        \vspace*{4cm}
+	\begin{center}
+    	\vspace*{4cm}
 
   \huge
-        \textbf{Sourcelessness}
+    	\textbf{Sourcelessness}
 
  \vspace{0.5cm}
-        \Large
-    How has softlight affected naturalism in early european cinema?
+    	\Large
+	How has softlighting affected naturalism in early European cinema?
 
 
 
@@ -68,7 +68,7 @@ toc_depth: 4
  \vspace{0.8cm}
 
    \large
-        Screen Studies
+    	Screen Studies
 
 \today
 
@@ -82,99 +82,113 @@ toc_depth: 4
 
 
 # Introduction
-This project looks at the evolution of softlight, I will look at how the evolution of soft light and how it is used to create a natural-looking image. To further understand its historical evolution, I will look at some of the key cinematographers who have used and contributed to the evolution of soft light and how they have used it to create more realistic images. I will focus on three film movements and periods, among other influences, from 1940 to the 1970s.
+This project looks at the evolution of soft light. I will look at how soft light evolved and how it is used to create a natural-looking image. To further understand its historical evolution, I will look at some of the key cinematographers who have used and contributed to the evolution of soft light and how they have used it to create more realistic images. I will focus on three film movements and periods, among other influences, from 1940 to the 1970s.
 
-The movements I will look at are Italian neo-realism, French cinema from 1950 to 1960 and British kitchen sink/new wave from 1960 to the 1970s. I will also look at individuals and smaller movements that have used realism to great effect, like Ingmar Bergman and the Polish Film School movement.
+The movements I will look at are Italian neorealism, French cinema from 1950 to 1960 and British kitchen sink/new wave from 1960 to the 1970s. I will also look at individuals and smaller movements that have used realism to great effect, like Ingmar Bergman and the Polish Film School movement.
 
-Whilst soft lighting is a naturally occurring phenomenon that has been used in cinema since the beginning. However, the goal behind using it has not always been realism. This is partly because of realist film movements like Italian neorealism started gaining critical acclaim 40s.
+Whilst soft lighting is a naturally occurring phenomenon that has been used in cinema since the beginning, the goal behind using it has not always been realism. How it is used has a great impact on the image, resulting in totally different effects, going from a more realistic look to the opposite effect, which is unrealistic, having no shadows at all.
 
-Whilst soft lighting is a naturally occurring phenomena how it is used has a great impact on the image going from a more realist look of a room where sunlight is scattered into a room like in Fish Tank (2008). Figure \ref{fig:FishTank} is a good example of this and one can’t see when the light affecting the subject is coming from.
+In Fish Tank (2008). Figure \ref{fig:FishTank} we have a good example of the realistic look of a room where sunlight and shadows are scattered into the room and one cannot see where the light affecting the subject is coming from.
+
+
 
 \begin{figure}[H]
-    \centering
+	\centering
 \includegraphics[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/RKHCQCJB.jpg}
 \caption{\textit{Fish Tank} (2009)}
-    \label{fig:FishTank}
+	\label{fig:FishTank}
 \end{figure}
 
 The opposite to this would be The Construct in The Matrix (1999) Sourceless nature of The Construct is a perfect example of how soft light can have the polar opposite effect by having no visible shadows or light source.
 
 \begin{figure}[H]
-    \centering
+	\centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/LA4249F0.jpg}
 \caption{\textit{The Matrix} (1999)}
-    \label{fig:The Matrix}
+	\label{fig:The Matrix}
 \end{figure}
 
 
 ## What is soft light?
 
-To be able to understand the history of soft lighting I will first look at the ways soft light is created and the effect it produces, Jay Holben discribes this process will in a the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]. Holben states that "The closer the source is to your subject, the softer the light will be." [@holbenLightQuality1012020]. As the light apears less directional and more scatterer it has the effect of lowering the contrast of the item being iluminated this results in lower contrast as seen in Figure \ref{fig:ASC101}.
+To understand the history of soft lighting, I will first look at the ways in which soft light is created and the effect it produces.  Jay Holben describes this process well in an article from the American Cinematographer entitled Shot Craft: Light Quality 101 [@holbenLightQuality1012020]. Holben states that "The closer the source is to your subject, the softer the light will be." [@holbenLightQuality1012020]. As the light appears less directional and more scattered, it has the effect of lowering the contrast of the item being illuminated; this results in lower contrast as seen in Figure \ref{fig:ASC101}.
 
 \begin{figure}[H]
-    \centering
+	\centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 15.08.40.png}
 \caption{\textit{Light Quality 101} (2020)}
-    \label{fig:ASC101}
+	\label{fig:ASC101}
 \end{figure}
 
-As light becomes softer and more the photos become more scattered <!-- is this right --> "the shadow transition becomes longer and more gradual." [@holbenLightQuality1012020] this results in the creation of a "nearly shadowless environment" [@holbenLightQuality1012020], This is due to the  light being scattered so that it is difficult to determine where the light originates from.
+As light becomes softer as the photons become more scattered <!-- is this right --> "the shadow transition becomes longer and more gradual." [@holbenLightQuality1012020] this results in creating a "nearly shadowless environment" [@holbenLightQuality1012020], This is because of the light being heavily scattered, so that it is difficult to determine where the light originates from.
+
+There are two primary ways of increasing the size of the source. One of them is Photon diffusion, the other is Diffuse reflection. Photon diffusion also known as ‘through lighting’ or ‘diffused lighting’ works by having a larger piece of partially transparent cloth that doesn't absorb all light there for scattering in with a reduction in intensity. The other way is called Photon diffusion also known as ‘bounced light’. This is where light is bounced into a larger piece of more reflective cloth. Both of these methods increase the size of the light source[^a] therefore softening the light. 
+
+One of the main benefits for the production is that  "soft lighting is more generalised in a space allowing actors to move more freely, or for the blocking to be changed in the last minute." [@mullenHistoryHardSoft2012] this allows for faster turnarounds for filming and a more natural performance as the actor isn't restricted to their marks. Another benefit of soft lighting is in facial lighting as it produces “more flattering effects” [@allisonLightingTechnologyFilm2007] that hides blemishes on the actors face, this is due to the lower contrast nature of soft light. This was especially important during the star system of the 1910’s where it was “ever more important to make the actors look attractive” [@allisonLightingTechnologyFilm2007].
+
+The two inherent drawbacks from the process of softening light is that the light becomes less controllable as it scatteries everywhere in a blog post Roger Deakins has stated that “the control of a bounce source is often an issue” and that he uses “a system of 'louvers' which I create using multiple small flags.” [@rogerdeakinsRogerDeakinsASC2013]
+
+The other drawback is the power draw to achieve the same luminance on set is drastically increased, this was one of the main reasons why light diffusion was used before the invention of Tungsten lamps as carbon arcs and Cooper-Hewitt lamps were less power efficient.
+
+That being said (talk about how the Cooper-Hewitts lamps were used then transition into pre realism and the start of realism)
 
 
-<!-- I need to find a more sciantific way of discribing photos scattering -->
+
+"Earliest silent movies were shot in studios under glass roofs with muslin cloth stretched across, so were under soft light. One of the most popular lights in the silent era were Cooper-Hewitts, which were gas-discharge fixtures in tubes, a cross between a mercury vapor streetlamp and a fluorescent tube, and produced a soft light. Cinematographers like Charles Rosher did lovely lighting effects by mixing hard carbon arc lamps with soft Cooper-Hewitt lamps. So soft lighting is not a modern phenomenon."   [@mullenHistoryHardSoft2012]
+
+"Silent films of the 1920's used a mix of hard and soft light, and even though the load Cooper-Hewitts were discontinued once sound movies began, replaced by banks of tungsten lamps, you had a generally soft style of lighting through the 1930's, it wasn't until the late 1930's that a nearly all hard-light style emerged.  A lot of this was just a shift in style, people got tired of the soft 30's look, which combined lower-contrast, softer lighting with diffusion on the lens." [@mullenHistoryHardSoft2012]
+
+"Sound killed the use of the noisy Cooper-Hewitts (as did color). But many 1930's movies still created soft lighting using tungsten lamps through spun glass or silks. By like all styles, people became tired of it and the sharper, crisper look using harder lights become the norm by the 1940's" [@mullenHistoryHardSoft2012]
+
+
+
 
 
 This sourcelessness can be used to either create a natural looking image for example in
 
-one of the main beinfits of  "soft lighting is more generalized in a space allowing actors to move more freely, or for the blocking to be changed in the last minute." [@mullenHistoryHardSoft2012]
 
-When using softer lighting in a film there are some inhearent benitits and drawbacks. --— in his essay puts it best 
+When using softer lighting in a film there are some inherent benefits and drawbacks. --— in his essay puts it best
 
-one of the major drawbacks to using softer lighting from a non artistic point is that it requires a lot more light to get a good exposure.
+One of the major drawbacks to using softer lighting from a non artistic point is that it requires a lot more light to get a good exposure.
 
-the second major draw back is that soft light by its very nature is uncontrollable 
+the second major drawback is that soft light by its very nature is uncontrollable
 
 from my understanding roger deakins uses bounce light and then flags and card to control the spill off the light
 
-### The Beniftis
-faster turnaround as a scene would not have to be relit for every shot
+
 
 
 
 ### The Drawbacks
 greater power requirements as
 
-would this work if this doesnt works
+would this work if this doesn't works
 just one more test
 
 
 ## Pre Realism soft light
 
-look at the use of soft light before the realist movements 
+look at the use of soft light before the realist movements
 
 looking at the soft 1930's and lens filters and soft light's use before realism
 
 
-"Director D. W. Griffith (1875-1948) was one of the first to explore the use of cameras and lighting to help heighten the mood of a film—it often being cited that Enoch Arden, released in 1911, introduced soft lighting on faces as a technique. This is usually created by bouncing or diffusing the light source of a shot, ensuring there are no harsh shadows on the person or object being lit. Soft lighting makes a shot more appealing to a viewer and tends to be used for happier and upbeat scenes. 
+"Director D. W. Griffith (1875-1948) was one of the first to explore the use of cameras and lighting to help heighten the mood of a film—it often being cited that Enoch Arden, released in 1911, introduced soft lighting on faces as a technique. This is usually created by bouncing or diffusing the light source of a shot, ensuring there are no harsh shadows on the person or object being lit. Soft lighting makes a shot more appealing to a viewer and tends to be used for happier and upbeat scenes.
 
 From this point onwards, lighting, as we know it in cinema, became heavily stylized and rarely reflected the true reality of a situation. Instead, lighting acts as a visual representation of what we think certain emotions or scenarios would look like." [@ArtLightingHistory]
 
-"Earliest silent movies were shot in studios under glass roofs with muslin cloth stretched across, so were under soft light. One of the most popular lights in the silent era were Cooper-Hewitts, which were gas-discharge fixtures in tubes, a cross between a mercury vapor streetlamp and a fluorescent tube, and produced a soft light. Cinematographers like Charles Rosher did lovely lighting effects by mixing hard carbon arc lamps with soft Cooper-Hewitt lamps. So soft lighting is not a modern phenomenon."   [@mullenHistoryHardSoft2012]
-
-"Silent films of the 1920's used a mix of hard and soft light, and even though the load Cooper-Hewitts were discontinued once sound movies began, replaced by banks of tungsten lamps, you had a generally soft style of lighting through the 1930's, it wasn't until the late 1930's that a nearly all hard-light style emerged.  A lot of this was just a shift in style, people got tired of the soft 30's look, which combined lower-contrast, softer lighting with diffusion on the lens." [@mullenHistoryHardSoft2012]
-
-"Sound killed the use of the noisy Cooper-Hewitts (as did color). But many 1930's movies still created soft lighting using tungsten lamps through spun glass or silks. By like all styles, people became tired of it and the sharper, crisper look using harder lights become the norm by the 1940's" [@mullenHistoryHardSoft2012]
 
 
-Seen in Der letzte Mann (1925) shot by Karl Freund used soft light long before Italien neo realism  soft lighting has been around long before 
+
+Seen in Der letzte Mann (1925) shot by Karl Freund used soft light long before Italian neorealism  soft lighting has been around long before
 
 
 
 \begin{figure}[H]
-    \centering
+	\centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/VNS6EA9W.jpg}
 \caption{\textit{Der letzte Mann} (1925)}
-    \label{fig:Der letzte Mann}
+	\label{fig:Der letzte Mann}
 \end{figure}
 
 
@@ -182,10 +196,10 @@ the same can be seen in metropolis (1927)
 
 
 \begin{figure}[H]
-    \centering
+	\centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/CZUZUZUZ.jpg}
 \caption{\textit{Metropolis} (1927)}
-    \label{fig:Metropolis}
+	\label{fig:Metropolis}
 \end{figure}
 
 
@@ -197,11 +211,11 @@ before the war and other possible points for the movement to start
 
 
 \begin{figure}[H]
-    \centering
+	\centering
 \includegraphics[width=0.8\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-19 at 14.36.25.png
 }
 \caption{\textit{Cenere} (1917)}
-    \label{fig:Der letzte Mann}
+	\label{fig:Der letzte Mann}
 \end{figure}
 
 
@@ -234,9 +248,9 @@ Roberto Rossellini
 "Roma città aperta was shot in the same way that conventional feature films were shot at the time, mostly in a studio. However, the production was ‘poor’ for purely historical reasons: electrical power and production funding were scarce and unreliable. The ‘look’ of a film is largely the product of the lighting. For the interiors, mostly shot in a studio, the filmmakers had no alternative but to use large amounts of artificial light, and one problem they faced was that of getting power for the lighting units. They had a generator, but fuel was hard to obtain. Once they had solved the problem by purloining current from a nearby American forces newspaper office, there was no reason why the DP should not light his sets in the normal way (except that Arata found himself short of bulbs for the lighting units)." [@wagstaffItalianNeorealistCinema2007]
 
 
-## i need to find the third cinematogpher  in 
+## i need to find the third cinematographer  in
 
-## Otello Martelli 
+## Otello Martelli
 
 
 ### Paisan
@@ -250,9 +264,9 @@ Otello Martelli, director of photography on Rossellini’s Paisà (Paisan, 1946)
 
 how did photojournalism influence cinematography
 
-G.R. Aldo born in 1905 was one of the most infuletual cinematogrphers in italian neorealism, Aldo started his carrere out as a photojernolist 
+G.R. Aldo born in 1905 was one of the most influential cinematographers in italian neorealism, Aldo started his career out as a photojournalist
 
-taking insperation from his time working as a Photojernolism could be one of the reasons behind the look of his film this is sceen in his works like La Terra Trema (1948) and
+taking inspiration from his time working as a Photojournalism could be one of the reasons behind the look of his film this is seen in his works like La Terra Trema (1948) and
 
 "The formation of many neo-realist cinematographers in the field of photojournalism or the newsreel should not be underestimated" [@hillStillnessMotionItaly2014, 194]
 
@@ -267,7 +281,7 @@ taking insperation from his time working as a Photojernolism could be one of the
 
 "Visually, La Terra Trema is a very modern movie and Umberto Dis too, as well as Senso. Aldo photographed them." [@schaeferMastersLightConversations2013, 7]
 
-aldo invoated in that space to create his look and feel
+aldo innovated in that space to create his look and feel
 
 
 <!-- Introduction of who Aldo was then switch over to the films  -->
@@ -279,7 +293,7 @@ aldo invoated in that space to create his look and feel
 
 
 ### Umberto D. (1952)
-Vittorio De Sica 
+Vittorio De Sica
 
 
 "It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film School" [@deakinsWhenDidSoft2017]
@@ -289,7 +303,7 @@ Vittorio De Sica
 
 
 
-## Raise the question of the influence of war and 
+## Raise the question of the influence of war and
 
 
 
@@ -315,24 +329,24 @@ Italian neorealism on the French New Wave was significant, and it helped to shap
 From 1950 to 1960, France was rife with artistic experimentation, including one of the most influential film movements. The Nouvelle Vague brought upon us the birth of auteur theory. In the age of experimental auteurs, there were also experimental cinematographers, most notably the likes of Raoul Coutard, Henri Decae and Léonce-Henri Burel.
 
 
-#### Cinematogrphers not being part of film movements
+#### Cinematographers not being part of film movements
 
 
 
 
-## Raoul Coutard 
+## Raoul Coutard
 
-I am going to prioritise eather Raoul Coutard or Léonce-Henri Burel - i need to figure out who of the two was more insperational
+I am going to prioritise eather Raoul Coutard or Léonce-Henri Burel - i need to figure out who of the two was more inspirational
 
 
 
-Raoul Coutard's more notible work with soft light was in [-@godardPetitSoldat1963]
+Raoul Coutard's more notable work with soft light was in [-@godardPetitSoldat1963]
 
   \begin{figure}[h!]
-        \centering
-        \includegraphics[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 19.11.58.png}
-        \caption{\textit{Le petit soldat}. (1963) }
-    \end{figure}
+    	\centering
+    	\includegraphics[width=0.5\linewidth]{/Users/marc_nickl/Documents/__Screen_Studies-Year-3/IMG/Screenshot 2022-12-01 at 19.11.58.png}
+    	\caption{\textit{Le petit soldat}. (1963) }
+	\end{figure}
 
 
 [@godardPetitSoldat1963]
@@ -354,7 +368,7 @@ Henri Decae also worked with Jacques Dupont
 
 He started out as a still photographer
 
-Decaë began his career in the 1940s, and quickly gained a reputation for his ability to create naturalistic, highly detailed images. 
+Decaë began his career in the 1940s, and quickly gained a reputation for his ability to create naturalistic, highly detailed images.
 
 he was also known for his ability to shoot on location, which helped to further enhance the sense of realism in his films
 
@@ -362,7 +376,7 @@ he was also known for his ability to shoot on location, which helped to further 
 
 ## Léonce-Henri Burel - Main Focus
 
-Although Robert Bresson’s work is not thought to be part being part of the French New Wave, However it still was none the less highly influential in a multiple of ways, his way of lighting being one of them. The lighting in Bressons' films had evolved though multiple films and Cinematographers, two of the most notably being Philippe Agostini and Léonce-Henri Burel. Agostini's films with Bresson had softer elements with elements of softer lighting using the standard techniques of to achieve soft lighting. However, this change with Bressons' collaboration with Léonce-Henri Burel where this technique was used to a far greater extent, most notably on the films Diary of a Country Priest (1951), A Man Escaped (1956) and Pickpocket (1959).
+Although Robert Bresson’s work is not thought to be part being part of the French New Wave, However it still was none the less highly influential in a multiple of ways, his way of lighting being one of them. The lighting in Bressons' films had evolved through multiple films and Cinematographers, two of the most notably being Philippe Agostini and Léonce-Henri Burel. Agostini's films with Bresson had softer elements with elements of softer lighting using the standard techniques of to achieve soft lighting. However, this changed with Bressons' collaboration with Léonce-Henri Burel where this technique was used to a far greater extent, most notably on the films Diary of a Country Priest (1951), A Man Escaped (1956) and Pickpocket (1959).
 
 
 However, Bresson's work was distinctive and did not necessarily conform to the conventions of the French New Wave, so he is not always considered to be a part of this movement
@@ -371,9 +385,9 @@ he is often considered to be a filmmaker who worked outside of traditional film 
 
 look at the catch light used in A Man Escaped and how it gave life to the image
 
-the ineficency of lights and how they arnt very light efficent so they need stong lights to power
+the inefficiency of lights and how they aren't very light efficient so they need strong lights to power
 
-(soft light was used since the being of cinema how)
+(soft light was used since the beginning of cinema how)
 
 
 
@@ -384,12 +398,7 @@ the ineficency of lights and how they arnt very light efficent so they need ston
 
 ### Pickpocket
 
-i have no idea i still need to research 
-
-
-
-
-
+i have no idea i still need to research
 
 
 
@@ -413,10 +422,10 @@ i have no idea i still need to research
 # The British cinema and the Kitchen Sink
 
 
-It's interesting to look at the work of Geoffrey Unsworth and Ozzie Morris because they came out of the British studio system and their lighting styles was always a mix of old-school hard light and more modern soft-light techniques -- and then compare them with someone like David Watkin who came out of shooting industrials, documentaries, and commercials.  Also, look at Unsworth's work on "2001" (1968), which is mostly soft-lit - (David Mullen, 2017)
+It's interesting to look at the work of Geoffrey Unsworth and Ozzie Morris because they came out of the British studio system and their lighting styles was always a mix of old-school hard light and more modern soft-light techniques -- and then compare them with someone like David Watkin who came out of shooting industrials, documentaries, and commercials.  Also, look at Unsworth's work on "2001" (1968), which is mostly soft-lit - (David Mullen, 2017)
 
 
-**The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterized by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.** 
+**The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterised by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.**
 
 **Some well-known examples of British kitchen sink films include Saturday Night and Sunday Morning, A Taste of Honey, and Look Back in Anger.**
 
@@ -440,7 +449,7 @@ Ozzie Morris' use of space lights and
 
 > _"It's interesting to look at the work of Geoffrey Unsworth and Ozzie Morris because they came out of the British studio system and their lighting styles was always a mix of old-school hard light and more modern soft-light techniques -- and then compare them with someone like David Watkin who came out of shooting industrials, documentaries, and commercials. Also, look at Unsworth's work on "2001" (1968), which is mostly soft-lit"_ [@mullenWhenDidSoft2017]
 
-**Ozzie Morris was a British cinematographer who was known for his use of soft light in his films. He began his career in the 1950s and worked on a number of films during this time, but it was his collaboration with director Carol Reed on the film Oliver! (1968) that brought him to prominence. Morris's use of soft light in this film helped to create a more natural and realistic look, and his lighting techniques were instrumental in defining the visual style of the film** 
+**Ozzie Morris was a British cinematographer who was known for his use of soft light in his films. He began his career in the 1950s and worked on a number of films during this time, but it was his collaboration with director Carol Reed on the film Oliver! (1968) that brought him to prominence. Morris's use of soft light in this film helped to create a more natural and realistic look, and his lighting techniques were instrumental in defining the visual style of the film**
 
 
 
@@ -448,7 +457,7 @@ Ozzie Morris' use of space lights and
 
 2001: A Space Odyssey
 
-"It was the demands of such cinematographers for a softer look, especially in the shooting of commercials, that influenced what the film equipment manufacturers made rather than the other way around. The development of Space Lights made economical sense when film directors and cinematographers demanded their large interior stage sets looked real.  HMIs were invented because there was a demand for ever larger sources of light that could be softened down or bounced to appear more naturalistic. Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott." [@deakinsWhenDidSoft2017]
+"It was the demands of such cinematographers for a softer look, especially in the shooting of commercials, that influenced what the film equipment manufacturers made rather than the other way around. The development of Space Lights made economical sense when film directors and cinematographers demanded their large interior stage sets looked real.  HMIs were invented because there was a demand for ever larger sources of light that could be softened down or bounced to appear more naturalistic. Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott." [@deakinsWhenDidSoft2017]
 
 
 
@@ -464,27 +473,27 @@ Ozzie Morris' use of space lights and
 
 
 
-# Other Europiean Movemets and influences 
+# Other European Movements and influences
 
-show when there are simulatities and diffrences 
+show when there are similarities and differences in regards to lighting
 
 just an overview
 
 
 just to contextualise
 ## Polish Film School Movement
-Looking at how they also took infludence from italian neo realism
+Looking at how they also took influence from italian neorealism
 
-The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave
+The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterised by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave
 
 notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor."
 
 **The Polish Film School was a movement that began in the 1950s and lasted through the 1970s, during which time Polish filmmakers created a new, more realistic form of cinema. One of the key techniques used by these filmmakers was the use of soft light, which helped to create a more natural and realistic look in their films.** -->
 
- **The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterized by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.**
+ **The Polish Film School was a film movement that emerged in Poland during the 1950s. It was characterised by a focus on realism and social commentary in its storytelling, as well as a distinct visual style. The movement was influenced by Italian neorealism and the French New Wave, and its leading figures included filmmakers such as Andrzej Wajda and Krzysztof Zanussi. The Polish Film School movement was highly regarded and had a significant impact on the development of world cinema.**
 
 
-**Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement.** 
+**Some notable cinematographers who worked during the Polish Film School movement include Jerzy Wójcik, Edward Kłosiński, and Witold Sobociński. Wójcik is best known for his work on Andrzej Wajda's "Ashes and Diamonds," while Kłosiński is known for his collaborations with Krzysztof Zanussi, including on the film "Illumination." Sobociński, meanwhile, is known for his work on Wajda's "The Promised Land" and Zanussi's "The Constant Factor." These cinematographers were known for their innovative use of camera techniques and their ability to capture the realism and social commentary that were central to the Polish Film School movement.**
 
 
 ### Jerzy Wójcik
@@ -493,7 +502,7 @@ Andrzej Wajda
 
 
 ### Witold Sobociński
-**Witold Sobociński was a Polish cinematographer known for his use of soft light in his work. Sobociński often used diffused light sources to create a warm, atmospheric look in his films. This approach helped to create a sense of intimacy and emotional depth in his scenes. Sobociński's use of soft light was particularly notable in his collaborations with director Krzysztof Zanussi, including in the films "The Constant Factor" and "From a Far Country."** 
+**Witold Sobociński was a Polish cinematographer known for his use of soft light in his work. Sobociński often used diffused light sources to create a warm, atmospheric look in his films. This approach helped to create a sense of intimacy and emotional depth in his scenes. Sobociński's use of soft light was particularly notable in his collaborations with director Krzysztof Zanussi, including in the films "The Constant Factor" and "From a Far Country."**
 
 ### The Promised Land
 
@@ -521,11 +530,11 @@ worked with tarkofski
 
 
 
-# Conclusion 
+# Conclusion
 
-Seperate cinematographers from the movments as they arnt liked to a spicific movement but more foucsing on films 
+Seperate cinematographers from the movments as they arnt liked to a spicific movement but more foucsing on films
 
-cinematographers hope over the line and have more diversity 
+cinematographers hope over the line and have more diversity
 
 soft light is not inovative but to do it well does involve skill
 
@@ -534,6 +543,8 @@ soft light vs natural light
 
 
 \pagebreak
+
+[^a]: A Light source is anything that emits light this can be the primary emitter but can also be a reflection. 
 
 
 \section{List of Figures}
@@ -545,3 +556,7 @@ Figure 4. _Der letzte Mann_. (1925).  <hr>
 Figure 5. _Metropolis_. (1927). <hr>
 Figure 6. _Cenere_. (1917). <hr>
 Figure 6. _Le petit soldat_. (1963).\
+
+
+
+
