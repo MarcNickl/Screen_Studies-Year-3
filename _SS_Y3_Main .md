@@ -80,7 +80,7 @@ toc_depth: 4
 \tableofcontents
 \pagebreak
 
-# Introduction
+Introduction
 
 This project looks at the evolution of soft light. I will look at how soft light evolved and how it is used to create a natural-looking image. To further understand its historical evolution, I will look at some of the key cinematographers who have used and contributed to the evolution of soft light and how they have used it to create more realistic images. I will focus on three film movements and periods, among other influences, from 1940 to the 1970s.
 
@@ -358,6 +358,7 @@ Coutard was known for his ability to work quickly and efficiently, and his use o
 "It might be hard to understand now but these films had a profound affect on European cinema. They inspired the French 'New Wave' of Goddard and Truffaut; the 'Kitchen Sink' realism of the 60's in the UK; the students of the Polish Film" [@deakinsWhenDidSoft2017]
 
 
+Working with Goddard and Truffaut it was the cinematographer Raoul Coutard who really made this naturalistic approach to cinematography his signature 'style'. (Roger Deakins, 2017)
 
 
 
@@ -425,6 +426,11 @@ i have no idea i still need to research
 It's interesting to look at the work of Geoffrey Unsworth and Ozzie Morris because they came out of the British studio system and their lighting styles was always a mix of old-school hard light and more modern soft-light techniques -- and then compare them with someone like David Watkin who came out of shooting industrials, documentaries, and commercials.  Also, look at Unsworth's work on "2001" (1968), which is mostly soft-lit - (David Mullen, 2017)
 
 
+“One of the most striking features of British films during this period is the transformation in visual style: from a predominance of black and white to the ubiquity of colour; from hard-edged, high-contrast lighting to a softer, more diffused use of illumination; from carefully composed images and minimal camera movement to a much freer, more mobile and spontaneous visual register; from the aesthetics of classicism to a much more self-conscious use of form appropriate to a decade associated with a new emphasis on spectacle and sensation. This shift was driven by a number of factors including developments in technology and film-making practice, a continuing process within the industry towards independent production, and the influence of a wider cultural fermentation which stimulated new developments in other creative spheres including television, advertising, fashion, fine art and pop music. 
+
+Prior to the production of Zorba the Greek, Walter Lassally had made yet another major contribution to the development of British cinematography with his work on Tom Jones, a film which also marked the transition between the poetic austerity of the new wave and the emergence of the more colourful, exuberant and cosmopolitan cinema of ‘swinging London’. As noted above, Lassally approached this production in a similar freewheeling and self-conscious style. The vérité approach is in evidence throughout, with perhaps the highlight being the extended hunt sequence, beginning with the preparations, shot wild in a documentary style with three hand-held cameras, before moving into the chase, which combines low-angle travelling shots, including material filmed by Lassally from the back of a mini pick-up truck, with helicopter material providing an aerial overview of the horses and hounds. Tom Jones was also made in colour, which was considerably slower in comparison to black-and-white stocks – using Eastmancolor 5251, introduced in 1962 and rated at just 50 ASA. This was to remain the standard until the appearance of Eastmancolor 5254 in 1968 doubled the speed to 100 ASA. While this did not rule out flexible location shooting, more lighting was required to achieve a suitable exposure, particularly in the interiors. Ever the innovator, Lassally manipulated the colour to lower the contrast and create a softer and more pastel look by shooting everything through a net placed over the lens. This entailed a major risk, however, as the cinematographer acknowledges”: 
+Petrie, D. (2018) 'A Changing Visual Landscape: British Cinematography in the 1960s' In: Journal of British Cinema and Television 15 (2) pp.204–227.
+
 **The British kitchen sink drama movement emerged in the 1950s and 1960s, and was characterised by a focus on working-class characters and the harsh realities of life in industrial cities such as London and Manchester. Like Italian neorealism, the British kitchen sink drama movement sought to depict the world as it really was, without the glamorization or escapism of traditional British cinema. This movement was led by filmmakers such as Tony Richardson and Ken Loach, who were interested in using cinema to tell stories about the lives of ordinary people and to explore social and political issues of the time. Overall, while the direct influence of Italian neorealism on the British kitchen sink drama movement is difficult to determine, it is likely that the two movements shared some common influences and aesthetic approaches.**
 
 **Some well-known examples of British kitchen sink films include Saturday Night and Sunday Morning, A Taste of Honey, and Look Back in Anger.**
@@ -460,6 +466,21 @@ Ozzie Morris' use of space lights and
 "It was the demands of such cinematographers for a softer look, especially in the shooting of commercials, that influenced what the film equipment manufacturers made rather than the other way around. The development of Space Lights made economical sense when film directors and cinematographers demanded their large interior stage sets looked real.  HMIs were invented because there was a demand for ever larger sources of light that could be softened down or bounced to appear more naturalistic. Much later new varieties of reflector materials were developed for Kubrick and cinematographer John Alcott." [@deakinsWhenDidSoft2017]
 
 
+
+
+
+## David Watkin
+
+experimenting with large diffused light sources for sets.
+
+“While a veteran may have pointed the way, the key innovations in soft lighting in British cinematography were to come from elsewhere. David Watkin had joined British Transport Films in 1949 before moving into the newly burgeoning sphere of television commercials in 1960. It was during this period that he developed an inclination for a particular style of illumination: 
+Partly as boredom relief, I thought an interesting way to light interiors was to use reflected light. I decided on one scene in a documentary with a housewife in Welwyn Garden City to aim a brute through the window and light the scene with reflected light, which looks better and is more natural if you know what you are doing. People poured shit on that for about five years and then started copying it!6
+After working with Richard Lester on a Shredded Wheat commercial, Watkin was invited to shoot the director's next feature, The Knack … And How to Get It (1965). While this early example of the cinema of ‘swinging London’ sported a predominantly naturalistic monochrome look, this was tinged with an edge of surrealism, notably during the ‘white-out’ sequence featuring a line of young women on the staircase leading to the bedroom of Tolen (Ray Brooks), the young man with the ‘Knack’. But despite the attempts to eschew excessive sculpting with light and shade, black and white continued to demand the use of contrast, and it took a shift into colour on Watkin and Lester's next collaboration, Help!, to facilitate the creation of a more overtly softer and diffused lighting style. Another Beatles showcase, the film included various zany set pieces – this time filmed in exotic foreign locations, ranging from the ski slopes of the Austrian Alps to the tropical beaches of the Bahamas, which added their own range of natural colours.
+Watkin's artistic preferences dovetailed with technical ingenuity and his solution to a tight shooting schedule and limited space on Peter Brook's production of Marat/Sade (1966) was to create a single lighting set-up comprising a translucent wall through which 26 10kW lamps were diffused. The soft illumination proved not only conducive to fast and efficient production, but the distortion of the outline of figures when backlit added to the unsettling intensity of the drama's setting in a lunatic asylum. For The Charge of the Light Brigade (1968), Watkin found other ways of experimenting with a diffused naturalism. The slowness of colour film stock meant that backgrounds and windows are allowed to burn out in order to ensure the correct exposure for the foreground action, which created a dreamy quality in romantic scenes featuring the dashing Captain Nolan (David Hemmings) and his fiancée (Vanessa Redgrave). When the action switched from England to the Crimea, Watkin utilised a greater depth of field which further enhanced the harsh realities of this notorious military catastrophe. But what also gave the film its distinctive look was the use of old Ross Express lenses, which Watkin had encountered when he started his career in documentary production: 
+
+They had been around since the early 1930s … and had a very beautiful and gentle quality to them. Also, they carried no coating or blooming, so that there would occur light refraction within the elements of the lens itself. When you put a net, a diffuser, or a fog filter in front of a lens it is an overall dead thing you are seeing through – whereas, inside the Ross lenses were constantly alive, giving rise sometimes to the most wonderful accidents. And accidents (of the right sort) are always the best things in photography. (Chase 1984)
+
+Thus Watkin effectively eschewed the properties of current technology in favour of a retro or antiquated effect, thus making the cinematography of The Charge of the Light Brigade a fascinating blend of modernity and nostalgia.” [@petrieChangingVisualLandscape2018]
 
 
 
