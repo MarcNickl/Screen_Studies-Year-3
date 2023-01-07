@@ -38,6 +38,7 @@ header-includes: |
    	 \setcounter{tocdepth}{3}
 lof: False
 toc_depth: 4
+csl: /Users/marc_nickl/Documents/__Screen_Studies-Year-3/harvard-university-for-the-creative-arts.csl
 ...
 
 
@@ -559,7 +560,7 @@ cinematographers hope over the line and have more diversity
 
 soft light is not inovative but to do it well does involve skill
 
-soft light vs natural light
+soft light vs natural light [@bressonPickpocket1959]
 
 
 
